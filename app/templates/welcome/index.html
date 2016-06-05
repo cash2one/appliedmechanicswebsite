@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% set title = "Welcome" %}
+
+{% block js %}
+  {% assets filters="coffeescript,uglifyjs", output="welcome-%(version)s.js",
+            "javascripts/welcome.coffee" %}
+    <script src="{{ ASSET_URL }}"></script>
+  {% endassets %}
+{% endblock %}
+
+{% block css %}
+  {% assets filters="less,cleancss", output="welcome-%(version)s.css",
+            "stylesheets/welcome.less" %}
+    <link rel="stylesheet" type="text/css" href="{{ ASSET_URL }}" />
+  {% endassets %}
+{% endblock %}
+
+{% block body %}
+  <div class="site-wrapper">
+    <div class="site-wrapper-inner">
+      <div class="cover-container">
+        <div class="inner cover">
+          <h1 class="cover-heading">Welcome to Flaskage</h1>
+          <img id="main-logo" src="{{ url_for('static', filename='images/flaskage.png') }}">
+          <p class="lead">
+            A complete and carefully designed template for use with the Flask web
+            framework
+          </p>
+          <p class="lead">
+            <a href="https://github.com/fgimian/flaskage" class="btn btn-lg btn-default">Learn more</a>
+          </p>
+        </div>
+        <div class="mastfoot">
+          <div class="inner">
+            <p>
+              Cover template for <a href="http://getbootstrap.com">Bootstrap</a>,
+              by <a href="https://twitter.com/mdo">@mdo</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}

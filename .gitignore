@@ -1,0 +1,16 @@
+# Python byte-compiled, optimized and DLL files
+*.py[cod]
+
+# Nosetests and coverage information
+.coverage
+nosetests.xml
+coverage.xml
+
+# Application instance config (containing sensitive information)
+config/instance/*
+
+# Compiled versions of assets and related cache
+app/static/assets/*
+
+# Vendor-provided components
+vendor/assets/*/

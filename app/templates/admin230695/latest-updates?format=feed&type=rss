@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Latest Updates</title>
+		<description><![CDATA[Applied Mechanics Department - IIT Delhi]]></description>
+		<link>http://iitian.me/am/latest-updates</link>
+		<lastBuildDate>Thu, 18 Feb 2016 06:43:31 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://iitian.me/am/latest-updates?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>info@iitian.me (Applied Mechanics - IIT Delhi)</managingEditor>
+		<item>
+			<title>Nomination to BOG</title>
+			<link>http://iitian.me/am/latest-updates/44-nomination-to-bog</link>
+			<guid isPermaLink="true">http://iitian.me/am/latest-updates/44-nomination-to-bog</guid>
+			<description><![CDATA[<p>[ July, 2014]</p>
+<p>Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of the Institute.</p>]]></description>
+			<author>info@iitian.me (Super User)</author>
+			<category>Updates</category>
+			<pubDate>Tue, 06 Jan 2015 09:44:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Prof Santosh Kapuria selected INSA Fellow</title>
+			<link>http://iitian.me/am/latest-updates/43-prof-santosh-kapuria-selected-insa-fellow</link>
+			<guid isPermaLink="true">http://iitian.me/am/latest-updates/43-prof-santosh-kapuria-selected-insa-fellow</guid>
+			<description><![CDATA[<p>[ October, 2014]</p>
+<p>Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected as Fellow of prestegious INS Academy.</p>]]></description>
+			<author>info@iitian.me (Super User)</author>
+			<category>Updates</category>
+			<pubDate>Tue, 06 Jan 2015 09:44:30 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

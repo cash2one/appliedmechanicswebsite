@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Events</title>
+		<description><![CDATA[Applied Mechanics Department - IIT Delhi]]></description>
+		<link>http://iitian.me/am/events</link>
+		<lastBuildDate>Thu, 18 Feb 2016 06:42:49 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://iitian.me/am/events?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>info@iitian.me (Applied Mechanics - IIT Delhi)</managingEditor>
+		<item>
+			<title>Seminar by Professor Ezio Cadoni, University of Applied Sciences of Southern Switzerland</title>
+			<link>http://iitian.me/am/events/42-seminar-by-professor-ezio-cadoni-university-of-applied-sciences-of-southern-switzerland</link>
+			<guid isPermaLink="true">http://iitian.me/am/events/42-seminar-by-professor-ezio-cadoni-university-of-applied-sciences-of-southern-switzerland</guid>
+			<description><![CDATA[<p><strong>Title:</strong> High strain rate behavior of Materials</p>
+<p><strong>Date:</strong> Friday, 27 January 2012</p>
+<p><strong>Time:</strong> 4.00 P.M.</p>
+<p><strong>Venue:</strong> Committee Room, Applied Mechanics Department</p>
+<p style="text-align: justify;">ABSTRACT of the talk: The dynamic behavior of materials is relevant in multiple applications such as crashworthiness in transport including cars, trains, boats and airplanes; terminal ballistics related to defense, shielding of satellites, of turbine blades and discs; blast effects due to industrial explosions, terrorist attacks; material processing such as high speed shaping of metals. In the last years explosions and impact are becoming safety issues, very important for social and scientific community. In fact, even if these loading conditions can be considered as exceptional events the designer cannot ignore these scenarios for a large number of social sensitive structures as high rise buildings, pipelines, bridges, offshore platforms, secondary shells for nuclear plants and tunnels. The growing use of high strength steels in the automotive industry, to improve the crashworthiness and the light-weighting of the car body, requires the knowledge of their behavior over a large range of strain-rates. The accuracy of the results in medium and high strain-rate tests is often strongly influenced by the experimental techniques used for the mechanical characterization of materials. The seminar will develop the presentation of the activities of the DynaMat Laboratory and in particular in the last two directions.</p>]]></description>
+			<author>info@iitian.me (Super User)</author>
+			<category>Happenings</category>
+			<pubDate>Tue, 06 Jan 2015 09:44:02 +0000</pubDate>
+		</item>
+		<item>
+			<title> Indo-Danish Workshop on Future Composite Technologies &amp; Wind Turbine Blades  </title>
+			<link>http://iitian.me/am/events/41-indo-danish-workshop-on-future-composite-technologies-wind-turbine-blades</link>
+			<guid isPermaLink="true">http://iitian.me/am/events/41-indo-danish-workshop-on-future-composite-technologies-wind-turbine-blades</guid>
+			<description><![CDATA[<p>Know More about the <span style="line-height: 1.3em;">Indo-Danish Workshop</span><span style="line-height: 1.3em;">:</span></p>
+<p>Time: October 6-9, 2012</p>]]></description>
+			<author>info@iitian.me (Super User)</author>
+			<category>Happenings</category>
+			<pubDate>Tue, 06 Jan 2015 09:43:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>Third Asian Conference on Mechanics of Functional Materials and Structures (ACMFMS 2012)</title>
+			<link>http://iitian.me/am/events/40-third-asian-conference-on-mechanics-of-functional-materials-and-structures-acmfms-2012</link>
+			<guid isPermaLink="true">http://iitian.me/am/events/40-third-asian-conference-on-mechanics-of-functional-materials-and-structures-acmfms-2012</guid>
+			<description><![CDATA[<p style="text-align: justify;">Conference website: <a href="http://acmfms2012.iitd.ac.in" target="_blank">http://acmfms2012.iitd.ac.in</a></p>
+<p style="text-align: justify;">The Third Asian Conference on Mechanics of Functional Materials and Structures (ACMFMS 2012) is the successor of the First and the Second conferences held at Matsue, Japan in 2008 and Nanjing, China in 2010, respectively, and will be held during December 5-8, 2012 in New Delhi, India. The aim of this conference is to provide a forum for researchers and academics, particularly from East Asia and neighbouring region, to interact, exchange ideas and establish relationships, with a view to future cooperation and subsequent development of research in theoretical and applied mechanics of solids. Young university faculty and researchers are especially encouraged to participate, and use this opportunity to network with others in similar situations, who will also be seeking to develop their research abilities and experience.</p>]]></description>
+			<author>info@iitian.me (Super User)</author>
+			<category>Happenings</category>
+			<pubDate>Tue, 06 Jan 2015 09:41:52 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

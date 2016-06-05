@@ -1,0 +1,373 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" src="../../../../../../templates/ordasofttemplate-basetemplate/javascript/jquery.js"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+	
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,600,900,500,400,100,800,200,700' rel='stylesheet' type='text/css'>
+
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="BookLibrary Manager  | Material Science" />
+  <meta name="description" content="BookLibrary Manager  | Material Science" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>BookLibrary Manager  | Material Science</title>
+  <link href="foundation" rel="canonical" />
+  <link href="../../../../../../templates/ordasofttemplate-basetemplate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="../../../../../../component/search/index.html?Itemid=147&amp;task=view&amp;id=1&amp;catid=48&amp;format=opensearch" rel="search" title="Search Applied Mechanics - IIT Delhi" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="../../../../../../components/com_booklibrary/includes/custom.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../components/com_booklibrary/includes/booklibrary.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../templates/ordasofttemplate-basetemplate/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../templates/ordasofttemplate-basetemplate/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../templates/ordasofttemplate-basetemplate/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <script src="../../../../../../templates/ordasofttemplate-basetemplate/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="../../../../../../templates/ordasofttemplate-basetemplate/javascript/custom.js" type="text/javascript"></script>
+  <script src="../../../../../../media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://localhost/am2/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="../../../../../../media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="../../../../../../media/system/js/core.js" type="text/javascript"></script>
+  <script src="../../../../../../modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+
+
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie7.css" /> <![endif]-->
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie8.css" /> <![endif]-->
+<!--[if IE 9]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie9.css" /> <![endif]-->
+</head>
+
+<body>
+	<div class="header">
+		<div id="header" class="container">
+
+			<div  class="row">
+												</div>
+
+			    				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+								<div class="moduletable topmenu">
+					<ul class="nav navbar-nav menu">
+<li class="item-135"><a href="../../../../../../about-us" >About Us</a></li><li class="item-137"><a href="../../../../../../2013-09-02-14-49-57" >    Contacts</a></li></ul>
+		</div>
+	
+					</div>
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+								<div class="moduletable searchbar">
+					<div class="search searchbar">
+	<form action="../../../../all_categories" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search!</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="22" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="148" />
+	</form>
+</div>
+		</div>
+	
+					</div>
+				</div>
+			    
+			    <div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					    <div id="logo">
+						  <a href="../../../../../../index.php">
+						      <img style="width:302px; height:60px; " src="../../../../../../images/os_template_logo.png" alt="Logo" />
+						  </a>
+					    </div>
+					</div>
+								    <div class="main_menu">
+						<nav id="site-navigation-main" class="navbar" role="navigation">
+							<div class="navbar-header">
+						      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+						        <i class="fa fa-bars"></i>
+						      </button>
+						    </div>
+							<div id="main-navbar-collapse" class="collapse navbar-collapse">
+										<div class="moduletable_menu">
+					<ul class="nav navbar-nav menu">
+<li class="item-101"><a href="../../../../../../index.html" >Home</a></li><li class="item-205 deeper parent"><a href="../../../../../../people" >People</a><ul class="nav-child unstyled small"><li class="item-206"><a href="../../../../../../people/faculty" >Faculty</a></li><li class="item-207"><a href="../../../../../../people/staff" >Staff</a></li><li class="item-208"><a href="../../../../../../people/departmental-assignments" >Departmental Assignments</a></li><li class="item-209"><a href="../../../../../../people/visitors" >Visitors</a></li><li class="item-241 deeper parent"><a href="../../../../../../people/students" >Students</a><ul class="nav-child unstyled small"><li class="item-245"><a href="../../../../../../people/students/submit-profile" >Submit Profile</a></li></ul></li></ul></li><li class="item-117"><a href="../../../../../../academics" >Academics</a></li><li class="item-102 deeper parent"><a href="../../../../../../research" >Research</a><ul class="nav-child unstyled small"><li class="item-103"><a href="../../../../../../research/solid-mechanics" >Solid Mechanics</a></li><li class="item-200"><a href="../../../../../../research/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-201"><a href="../../../../../../research/material-science" >Material Science</a></li><li class="item-202"><a href="../../../../../../research/design-engineering" >Design Engineering</a></li><li class="item-203"><a href="../../../../../../research/honours-and-awards" >Honours and Awards</a></li></ul></li><li class="item-147 current active deeper parent"><a href="../../../../all_categories" >Library</a><ul class="nav-child unstyled small"><li class="item-194"><a href="../../../../../books/194/all_categories" >Books</a></li><li class="item-195"><a href="../../../../../equipments" >Equipments</a></li></ul></li><li class="item-192"><a href="../../../../../../events" >Events</a></li><li class="item-146 deeper parent"><a href="../../../../../../publications" >Publications</a><ul class="nav-child unstyled small"><li class="item-196"><a href="../../../../../../publications/solid-mechanics" >Solid Mechanics</a></li><li class="item-197"><a href="../../../../../../publications/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-198"><a href="../../../../../../publications/material-science" >Material Science</a></li></ul></li><li class="item-110"><a href="../../../../../../facilities" >Facilities</a></li><li class="item-193"><a href="../../../../../../placement" >Placement</a></li></ul>
+		</div>
+	
+							</div>
+						</nav><!-- #site-navigation -->
+				    </div>
+							    </div>
+			</div> <!--id header-->
+		 </div> <!--class header-->
+
+		<div id="wrapper" class="container">
+		    			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="moduletable">
+					
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li><a href="../../../../../../index.html" class="pathway">Home</a><span class="divider"><img src="../../../../../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../../../../all_categories" class="pathway">Library</a><span class="divider"><img src="../../../../../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../../../../showCategory/48/material-science" class="pathway">Material Science</a><span class="divider"><img src="../../../../../../media/system/images/arrow.png" alt="" /></span></li><li class="active"><span>Foundation</span></li></ul>
+		</div>
+	
+					
+				</div>
+			</div>
+		    		</div>
+		
+		<div class="slideshow">
+			<div id="header" class="container">
+							</div>
+		</div>
+		
+	<div class="department">
+		<div id="header" class="container">
+		 			</div>
+	</div>
+	<div class="feature">
+		<div id="wrapper" class="container">
+		    
+		    
+			<div id="globalContent">
+
+				
+			    <div class="row">
+					
+						<div id="contentBox" class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+							<div><div id="system-message-container">
+	</div>
+</div>
+							<div>
+<script language="javascript" type="text/javascript">
+
+    function review_submitbutton() {
+        var form = document.review;
+        // do field validation
+        var rating_checked = false;
+        for (c = 0;  c < form.rating.length; c++){
+            if (form.rating[c].checked){
+                rating_checked = true;
+            } 
+        }
+        if (form.title.value == "") {
+            alert( "Please enter a Title for your review!" );
+        } else if (form.comment == "") {
+            alert( "Please enter a Text for your review!" );
+        } else if (!rating_checked) {				
+            alert( "Please enter a Rating for your review!" );
+        } else {
+            form.submit();
+        }
+    }
+    //*****************   begin add for show/hiden button "Add review" ********************
+    function button_hidden( is_hide ) {
+        var el  = document.getElementById('button_hidden_review');
+        var el2 = document.getElementById('hidden_review');
+        if(is_hide){
+            el.style.display = 'none';
+            el2.style.display = 'block';
+        } else {
+            el.style.display = 'block';
+            el2.style.display = 'none';
+        }
+    }
+    //****************   end add for show/hiden button "Add review"   *********************
+</script>
+
+    <div class="componentheading">
+Library: Foundation</div>
+
+
+
+    
+<table  class="basictable bl_view_book my_table" width="100%" cellpadding="4" cellspacing="0" border="0" align="center" class="contentpane">
+        <tr>
+            <td nowrap="nowrap" width="20%" align="right">       
+                <strong>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>Foundation</td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap" width="20%" align="right">       
+                <strong>Categories:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+    <a href='../../../../showCategory/48/material-science'>Material Science</a>            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap" width="20%" align="right">       
+                <strong>BookID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+        4            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap" align="right">
+                <strong>Authors:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+        Isaac Asimov            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap" align="right">
+                <strong>ISBN-10(13):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+        0553803719            </td>
+        </tr>		
+        <tr>
+            <td nowrap="nowrap" align="right">
+                <strong>Publisher:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+    Spectra            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap" align="right">
+                <strong>Publication date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+    01-06-2004            </td>
+        </tr>
+                    <tr>
+            <td nowrap="nowrap" align="right">
+                <strong>Book Shelf:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+    256            </td>
+        </tr>
+                    <tr>
+            <td nowrap="nowrap" align="right">
+                <strong>Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+    English            </td>
+        </tr>
+            
+                <tr>
+        <td nowrap="nowrap" align="right">
+            <strong>Rating:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+        </td>
+        <td>
+            <img src="../../../../../../components/com_booklibrary/images/rating-4.gif" alt="2" border="0" />&nbsp;
+        </td>
+    </tr>		
+    <tr>
+        <td nowrap="nowrap" align="right" valign="top">
+            <strong>Picture:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+        </td>
+        <td>
+            <img class="bl_view_book_book_image" src="http://ecx.images-amazon.com/images/I/4181H430GQL._SL160_.jpg" alt="cover" border="0" height="160" width="124"/>
+
+            <!--************   begin add button 'buy now'   ************************-->
+
+            <!--************************   end add button 'buy now'   ******************-->
+<!--************   begin add button 'buy now vm'   ************************-->
+
+  
+<!--************************   end add button 'buy now vm'   ******************-->
+        </td>
+    </tr>
+    <!--************   begin add to cart'   ************************-->
+
+    <!--************   end add to cart'   ************************-->
+    
+                            <br>
+
+                    <tr>
+            <td align="right" valign="top">
+                <strong>Description:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            </td>
+            <td>
+                <strong>Product Description</strong><br />One of the great masterworks of science fiction, the Foundation novels of Isaac Asimov are unsurpassed for their unique blend of nonstop action, daring ideas, and extensive world-building. The story of our future begins with the history of Foundation and its greatest psychohistorian: Hari Seldon.  <br><br>For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying.  Only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future—a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to <br>a bleak planet at the edge of the Galaxy to serve as a beacon of hope for future generations. He calls his sanctuary the Foundation.<br><br>But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. And mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and live as slaves—or take a stand for freedom and risk total destruction.<br /><strong>Amazon.com Review</strong><br /><I>Foundation</I> marks the first of a series of tales set so far in the  future that Earth is all but forgotten by humans who live throughout the  galaxy.  Yet all is not well with the Galactic Empire. Its vast size is  crippling to it.  In particular, the administrative planet, honeycombed and  tunneled with offices and staff, is vulnerable to attack or breakdown. The only person willing to confront this imminent catastrophe is Hari Seldon, a  psychohistorian and mathematician.  Seldon can scientifically predict the  future, and it doesn't look pretty: a new Dark Age is scheduled to send  humanity into barbarism in 500 years.  He concocts a scheme to save the  knowledge of the race in an Encyclopedia Galactica.  But this project will  take  generations to complete, and who will take up the torch after him?  The first Foundation trilogy (<I>Foundation</I>,   <I>Foundation and  Empire</I>,  <I>Second Foundation</I>)  won a Hugo Award in 1965 for "Best All-Time Series."  It's science fiction  on the grand scale; one of the classics of the field. <I>--Brooks  Peck</I><br />            </td>
+        </tr>
+                    <tr>
+    </tr>	
+</table>
+<form id="adminForm" action="http://iitian.me/am/library/147/lend_request" method="post" name="book" id="book">
+    <table class="bl_view_book_land_request basictable" >
+        <tr>
+            <td >
+                    <div class="my_btn my_btn-primary bl_view_book_land_request_button">
+                        <input type="submit" name="submit" value="[ Lend Request ]" 
+                               class="button bl_view_book_land_request_button" onclick="document.book.submit()"/>	
+                    </div>		
+                                </td>
+            <td align="right">
+            </td>
+        </tr>
+    </table>
+    <input type="hidden" name="bid[]" value="1" />
+</form>
+    </div>
+							
+						</div>
+
+											<div class="sidebar-right col-lg-3 col-md-3 col-sm-3 col-xs-12">
+									<div class="moduletable happenings">
+					<h3>Latest Updates</h3>
+						<div class="nspMain  happenings" id="nsp-nsp-108" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">		
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages0">
+										</div>
+				</div>
+			</div>
+						<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages3">
+																				<ul class="nspList active nspCol3">
+														
+							<li class="even"><h4><a href="../../../../../../latest-updates/44-nomination-to-bog" title="Nomination to BOG" target="_self">Nomination to BOG</a></h4><p>[ July, 2014]
+Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of th&hellip;</p></li>							
+																											
+							<li class="odd"><h4><a href="../../../../../../latest-updates/43-prof-santosh-kapuria-selected-insa-fellow" title="Prof Santosh Kapuria selected INSA Fellow" target="_self">Prof Santosh Kapuria selected INSA Fellow</a></h4><p>[ October, 2014]
+Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected &hellip;</p></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+		</div>
+	
+						</div>
+								    </div>
+
+				
+			</div> <!--globalContent-->
+
+		    		</div> <!-- wrapper --->
+		</div> <!-- feature --->
+		<div id="footer">
+		    <div class="container">
+				
+				
+				<div class="content_footer row">
+					<div class="copyrights col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<p>Copyright © Applied Mechanics - IIT Delhi. All Rights Reserved.</p>					</div>
+					<div class="soc_icons_box col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<ul class="soc_icons" >
+													</ul>
+					</div>
+				</div> <!--content_footer-->
+
+						    </div> 
+		</div> <!--id footer-->
+	</body>
+<script type="text/javascript"></script>
+</html>

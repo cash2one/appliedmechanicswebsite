@@ -1,0 +1,198 @@
+{% include "header.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='assets/stylesheets/tablecss.css') }}">
+<script type="text/javascript" src="{{ url_for('static', filename='assets/js/tablejs.js') }}"></script>
+		<div id="wrapper" class="container">
+		    			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="moduletable">
+
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li><a href="../index.html" class="pathway">Home</a><span class="divider"><img src="../../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../../147/all_categories" class="pathway">Library</a><span class="divider"><img src= {{ url_for('static', filename = 'images/icons/arrow.png') }} alt="" /></span></li><li class="active"><span>Books</span></li></ul>
+		</div>
+
+
+				</div>
+			</div>
+		    		</div>
+
+		<div class="slideshow">
+			<div id="header" class="container">
+							</div>
+		</div>
+
+	<div class="department">
+		<div id="header" class="container">
+		 			</div>
+	</div>
+	<div class="feature">
+		<div id="wrapper" class="container">
+
+
+			<div id="globalContent">
+
+
+			    <div class="row">
+
+						<div id="contentBox" class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+							<div><div id="system-message-container">
+	</div>
+</div>
+							<div><div class="componentheading">
+    </div>
+	<table id="table" class="table table-hover table-mc-light-blue">
+	      <thead>
+	        <tr>
+	          <th>Name</th>
+	          <th>Advisor</th>
+              <th>Email</th>
+	          <th>Current Organisation</th>
+              <th>Phone</th>
+              <th>Program</th>
+              <th>Web Address</th>
+              <th>Graduation Year</th>
+              <th>Add</th>
+			  <th>Delete</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+			{% for alum in alumnipendinglist %}
+	        <tr>
+	          <td data-title="Name">{{ alum.name }} {{ alum.surname }}</td>
+              <td data-title="Advisor">{{ alum.advisor }}</td>
+              <td data-title="Email">{{ alum.email }}</td>
+              <td data-title="Current Organisation">{{ alum.currentOrganisation }}</td>
+              <td data-title="Phone">{{ alum.phone }}</td>
+              <td data-title="Program">{{ alum.program }}</td>
+              <td data-title="Web Address">{{ alum.webAddress }}</td>
+              <td data-title="Graduation Year">{{ alum.graduationyear }}</td>
+			  <td data-title="Add"><a href="{{'addalum/'+ alum.id|string}}">Add</a></td>
+			  <td data-title="Delete"><a href="{{'deletealum/'+ alum.id|string}}">Delete</a></td>
+	        </tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	<!--<table>
+		{% for book in books %}
+			<tr>
+				<td>{{ book.bookname }}</td>
+				<td>{{ book.bookauthor }}</td>
+				<td>{{ book.subject }}</td>
+				<td>{{ book.isbn }}</td>
+				<td>{{ book.numberavailable }}</td>
+			</tr>
+		{% endfor %}
+	</table>-->
+
+	<!--<table  class="basictable bl_bl_all_categories_top_table_with_logo" border="0" cellpadding="4" cellspacing="0" width="100%">
+    <tr>
+        <td>
+            <div class="my_alert">
+                Our library with suggestions for books for you to enjoy.            </div>
+        </td>
+        <td width="120" align="center">
+            <img src="../../../components/com_booklibrary/images/book.png" align="right" alt="Books"/>
+        </td>
+    </tr>
+</table>-->
+    <div class="componentheading">
+        <table  class="basictable bl_bl_all_categories_table_with_search" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td width="60%">&nbsp;
+                </td>
+                <td width="40%" nowrap align="right">
+                                                             <!--a href="http://iitian.me/am/library/books/194/show_search" >
+                     <img src="/am/./components/com_booklibrary/images/search.gif"
+                         alt="Search" border="0" />
+    Search Books                     </a-->
+                </td>
+            </tr>
+        </table>
+    </div>
+
+<!--<form class="bl_table_list_all_categories" id="adminForm" action="http://iitian.me/am/library/books/194/index.php" method="post" name="adminForm">
+            <table  class="bl_bl_single_category_list_categories_table my_table my_table-bordered" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td colspan="2" height="20" width="83%" class="sectiontableheader">
+        Category                </td>
+                <td height="20" width="10%" class="sectiontableheader">
+                # Books
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                                    <table  class="basictable bl_bl_all_categories_list_categories_in_table" width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr class="sectiontableentry2">
+                        <td width="1%" style="vertical-align:text-top;">
+                                                    </td>
+                        <td width="9%">
+                                                            <img src="../../../components/com_booklibrary/images/folder.png" alt="picture for subcategory" height="48" width="48" />&nbsp;
+                                        </td>
+                        <td class="bl_single_category_list_subcategories_link" width="74%">
+                            <a href="showCategory/46/solid-mechanics" class="category">
+                Solid Mechanics                            </a>
+                        </td>
+                        <td  align="left" width="10%" style="text-align:center;">
+                        3                        </td>
+                   </tr>
+                </table>
+                                <table  class="basictable bl_bl_all_categories_list_categories_in_table" width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr class="sectiontableentry1">
+                        <td width="1%" style="vertical-align:text-top;">
+                                                    </td>
+                        <td width="9%">
+                                                            <img src="../../../components/com_booklibrary/images/folder.png" alt="picture for subcategory" height="48" width="48" />&nbsp;
+                                        </td>
+                        <td class="bl_single_category_list_subcategories_link" width="74%">
+                            <a href="showCategory/47/fluid-mechanics" class="category">
+                Fluid Mechanics                            </a>
+                        </td>
+                        <td  align="left" width="10%" style="text-align:center;">
+                        1                        </td>
+                   </tr>
+                </table>
+                                <table  class="basictable bl_bl_all_categories_list_categories_in_table" width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr class="sectiontableentry2">
+                        <td width="1%" style="vertical-align:text-top;">
+                                                    </td>
+                        <td width="9%">
+                                                            <img src="../../../components/com_booklibrary/images/folder.png" alt="picture for subcategory" height="48" width="48" />&nbsp;
+                                        </td>
+                        <td class="bl_single_category_list_subcategories_link" width="74%">
+                            <a href="showCategory/48/material-science" class="category">
+                Material Science                            </a>
+                        </td>
+                        <td  align="left" width="10%" style="text-align:center;">
+                        2                        </td>
+                   </tr>
+                </table>
+                                </td>
+            </tr>
+        </table>
+            <table  class="basictable bl_bl_all_categories_some_intresting_table_with_button" width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td width="50%">&nbsp;
+
+            </td>
+            <td width="50%">
+            </td>
+        </tr>
+    </table>
+</form>-->
+
+
+<!-- Add item Begin -->
+
+
+</div>
+
+						</div>
+<a href="addbook"><button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Add Alumni</button></a>
+<!--{% include "booksidebar.html" %}-->
+    </div>
+
+
+			</div> <!--globalContent-->
+
+		    		</div> <!-- wrapper --->
+		</div> <!-- feature --->
+{% include "footer.html" %}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Latest Updates</title>
+	<subtitle type="text">Applied Mechanics Department - IIT Delhi</subtitle>
+	<link rel="alternate" type="text/html" href="http://iitian.me"/>
+	<id>http://iitian.me/am/latest-updates</id>
+	<updated>2016-02-18T06:43:31+00:00</updated>
+	<author>
+		<name>Applied Mechanics - IIT Delhi</name>
+		<email>info@iitian.me</email>
+	</author>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://iitian.me/am/latest-updates?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Nomination to BOG</title>
+		<link rel="alternate" type="text/html" href="http://iitian.me/am/latest-updates/44-nomination-to-bog"/>
+		<published>2015-01-06T09:44:55+00:00</published>
+		<updated>2015-01-06T09:44:55+00:00</updated>
+		<id>http://iitian.me/am/latest-updates/44-nomination-to-bog</id>
+		<author>
+			<name>Super User</name>
+			<email>info@iitian.me</email>
+		</author>
+		<summary type="html">&lt;p&gt;[ July, 2014]&lt;/p&gt;
+&lt;p&gt;Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of the Institute.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[ July, 2014]&lt;/p&gt;
+&lt;p&gt;Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of the Institute.&lt;/p&gt;</content>
+		<category term="Updates" />
+	</entry>
+	<entry>
+		<title>Prof Santosh Kapuria selected INSA Fellow</title>
+		<link rel="alternate" type="text/html" href="http://iitian.me/am/latest-updates/43-prof-santosh-kapuria-selected-insa-fellow"/>
+		<published>2015-01-06T09:44:30+00:00</published>
+		<updated>2015-01-06T09:44:30+00:00</updated>
+		<id>http://iitian.me/am/latest-updates/43-prof-santosh-kapuria-selected-insa-fellow</id>
+		<author>
+			<name>Super User</name>
+			<email>info@iitian.me</email>
+		</author>
+		<summary type="html">&lt;p&gt;[ October, 2014]&lt;/p&gt;
+&lt;p&gt;Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected as Fellow of prestegious INS Academy.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[ October, 2014]&lt;/p&gt;
+&lt;p&gt;Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected as Fellow of prestegious INS Academy.&lt;/p&gt;</content>
+		<category term="Updates" />
+	</entry>
+</feed>

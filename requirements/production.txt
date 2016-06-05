@@ -1,0 +1,53 @@
+# Flask
+Flask==0.10.1
+Jinja2==2.7.2
+MarkupSafe==0.23
+itsdangerous==0.24
+Werkzeug==0.9.4
+Flask-Admin
+
+# Development Server Failsafe
+Flask-Failsafe==0.2
+
+# Debug Toolbar
+Flask-DebugToolbar==0.9.0
+
+# Scripting Interface
+Flask-Script==0.6.7
+
+# Assets
+Flask-Assets==0.9
+webassets==0.9
+
+# Forms
+Flask-WTF==0.9.5
+WTForms==1.0.5
+
+# Database ORM
+Flask-SQLAlchemy
+Flask-Migrate==1.2.0
+SQLAlchemy==0.9.4
+alembic==0.6.5
+Mako==0.9.1
+
+# IPython Shell
+ipython==1.2.1
+
+
+Flask-Security
+Flask-SuperAdmin
+
+# for booking system taken from https://github.com/wpic/flask-appointment-calendar
+
+
+#Flask-Babel
+#Flask-Testing
+#Flask-Mail
+#Flask-Cache
+#Flask-Login
+#Flask-OpenID
+#nose
+#mysql-python
+
+#search using whooshalchemy
+flask_whooshalchemy

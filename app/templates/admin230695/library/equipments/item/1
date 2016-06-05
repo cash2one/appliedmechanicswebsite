@@ -1,0 +1,697 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" src="../../../templates/ordasofttemplate-basetemplate/javascript/jquery.js"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+	
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,600,900,500,400,100,800,200,700' rel='stylesheet' type='text/css'>
+
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Applied Mechanics Department - IIT Delhi" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Equipment 1 - Applied Mechanics - IIT Delhi</title>
+  <link href="1" rel="canonical" />
+  <link href="../../../templates/ordasofttemplate-basetemplate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="../../../component/search/index.html?Itemid=195&amp;id=1&amp;format=opensearch" rel="search" title="Search Applied Mechanics - IIT Delhi" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="../../../components/com_booking/assets/css/general.css?v=231" type="text/css" />
+  <link rel="stylesheet" href="../../../media/system/css/calendar-jos.css" type="text/css"  title="Green"  media="all" />
+  <link rel="stylesheet" href="../../../components/com_booking/assets/libraries/month-year-picker/css/StyleCalender.css" type="text/css" />
+  <link rel="stylesheet" href="../../../components/com_booking/assets/libraries/slimbox18/css/slimbox.css" type="text/css" />
+  <link rel="stylesheet" href="../../../media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="../../../templates/ordasofttemplate-basetemplate/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="../../../templates/ordasofttemplate-basetemplate/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="../../../templates/ordasofttemplate-basetemplate/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="../../../modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <script src="../../../media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://localhost/am2/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="../../../media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="../../../media/system/js/core.js" type="text/javascript"></script>
+  <script src="../../../media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/js/common.js?v=231" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/js/joomla.javascript.js?v=231" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/js/view-images.js?v=231" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/js/calendars.js?v=231" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/js/supplements.js?v=231" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/js/view-reservation-submitbutton.js?v=231" type="text/javascript"></script>
+  <script src="../../../media/system/js/calendar.js" type="text/javascript"></script>
+  <script src="../../../media/system/js/calendar-setup.js" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/libraries/month-year-picker/js/CalendarControl.js" type="text/javascript"></script>
+  <script src="../../../components/com_booking/assets/libraries/slimbox18/js/slimbox.js" type="text/javascript"></script>
+  <script src="../../../media/system/js/modal.js" type="text/javascript"></script>
+  <script src="../../../templates/ordasofttemplate-basetemplate/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="../../../templates/ordasofttemplate-basetemplate/javascript/custom.js" type="text/javascript"></script>
+  <script src="../../../modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+  <script type="text/javascript">
+	var LGMidnight = "Midnight";	var LGAreYouSure = "Are you sure?";	var LGAddDirname = "ADD_DIRECTORY_NAME";	var LGSelectToDefault = "SELECT_IMAGE_WHICH_YOU_WANT_TO_SELECT_AS_DEFAULT";	var CheckOpIn = 1;	var CheckOpOut = 2;	var CheckOpNext = 3;	var ReservationDaily = 2;	var ReservationHourly = 1;	var LGSelectCheckInAndCheckOut = "Select check in and check out";	var LGSelectReservation = "SELECT_RESERVATION";	var LGNoContinuousInterval = "Your selected interval is no continuous";	var LGSelectRealInterval = "Select real check interval";	var LGFixedLimitError = "Fixed limit is %s";	var LGMinimumLimitUnderflow = "Minimum allowed limit is %s";	var LGMaximumLimitOverflow = "Maximum allowed limit is %s";	var LGFixFromMon = "Reservations are allowed from Monday";	var LGFixFromTue = "Reservations are allowed from Tuesday";	var LGFixFromWed = "Reservations are allowed from Wednesday";	var LGFixFromThu = "Reservations are allowed from Thursday";	var LGFixFromFri = "Reservations are allowed from Friday";	var LGFixFromSat = "Reservations are allowed from Saturday";	var LGFixFromSun = "Reservations are allowed from Sunday";	var LGUnBookAbleInterval = "Another customer has booked this interval or it is not available in selected quantity";	var LGSelectOccupancy = "Select Occupancy";	var LGSelectNightInterval = "Select at least two days";	var LGErrAddReservationFirstName = "Add first name";	var LGErrAddReservationSurname = "Add surname";	var LGErrAddReservationEmail = "Add email";	var LGErrAddReservationValidEmail = "Add valid email";	var LGErrAddReservationTelephone = "Add telephone";	var LGErrAddReservationCapacity = "Add capacity";	var LGErrReservationCapacityMustBeInteger = "Capacity value must be an integer";	var LGErrAddReservationCustomerRegistration = "Add customer registration";	var LGErrAddReservationSubject = "Add object";	var LGErrAddReservationSubjectTitle = "Add item title";	var LGErrAddReservationFrom = "Add from date";	var LGErrAddReservationTo = "Add to date";	var LGErrReservationInvalidInterval = "Reservation has invalid date range from - to";	var LGErrAddReservationPrice = "Add price";	var LGErrAddCaptcha = "Add captcha";	var LGErrAddRType = "ADD_RTYPE";	var LGErrAcceptContract = "Accept Terms of Contract";	var LGErrAcceptPrivacy = "Accept Terms of Privacy";	var LGAreYouSure = "Are you sure?";	var LGErrDisallowRemoveOnlyItem = "You cannot remove only item from reservation. Delete whole reservation.";	var URLRoot = "/am/library/equipments";var juri = "/am/library/equipments";jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					$(this).data('tip:title', parts[0]);
+					$(this).data('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]; Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sun"]; Calendar._FD = 0; Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; Calendar._TT = {"INFO":"About the Calendar","ABOUT":"DHTML Date\/Time Selector\n(c) dynarch.com 2002-2005 \/ Author: Mihai Bazon\nFor latest version visit: http:\/\/www.dynarch.com\/projects\/calendar\/\nDistributed under GNU LGPL.  See http:\/\/gnu.org\/licenses\/lgpl.html for details.\n\nDate selection:\n- Use the \u00ab and \u00bb buttons to select year\n- Use the < and > buttons to select month\n- Hold mouse button on any of the above buttons for faster selection.","ABOUT_TIME":"\n\nTime selection:\n- Click on any of the time parts to increase it\n- or Shift-click to decrease it\n- or click and drag for faster selection.","PREV_YEAR":"Click to move to the previous year. Click and hold for a list of years.","PREV_MONTH":"Click to move to the previous month. Click and hold for a list of the months.","GO_TODAY":"Go to today","NEXT_MONTH":"Click to move to the next month. Click and hold for a list of the months.","SEL_DATE":"Select a date.","DRAG_TO_MOVE":"Drag to move","PART_TODAY":" Today ","DAY_FIRST":"Display %s first","WEEKEND":"0,6","CLOSE":"Close","TODAY":"Today","TIME_PART":"(Shift-)Click or Drag to change the value.","DEF_DATE_FORMAT":"%Y-%m-%d","TT_DATE_FORMAT":"%a, %b %e","WK":"wk","TIME":"Time:"};window.addEvent('domready', function() {
+Calendars.onlyOnePrice = false;
+});
+window.addEvent('domready', function() {
+Calendars.cartPopup = true;
+});
+window.addEvent('domready', function() {
+Calendars.highlightBoxes = true;
+});
+window.addEvent('domready', function() {
+Calendars.enabledResponsive = false;
+});
+window.addEvent('domready', function() {
+Calendars.nightBooking = false;
+});
+window.addEvent('domready', function() {
+Calendars.mode = "";
+});
+window.addEvent('domready', function() {
+Calendars.init(true);
+});
+		//<![CDATA[
+		
+			/**
+			 * Total number of images in the slideshow
+			 */
+			 
+	   		var pg_count = 1;
+	   		
+	   		/**
+	   		 * Current position in the slideshow
+	   		 */
+	    	var pg_position = 0;
+	    	
+	    	/**
+	    	 * Duration of the slideshow tween in miliseconds
+	    	 */
+	    	var pg_duration = 500;
+	    	
+	    	/**
+	    	 * Number of images moved in one step
+	    	 */
+	    	var pg_shift = 3;
+	    
+	    	/**
+	    	 * Move slideshow to the left
+	    	 */
+	    	function moveLeft() {
+	        	if (pg_position > 0) {
+	         		pg_position -= pg_shift;
+	        		moveGallery(-1);
+	        	}
+	   		}
+	    	/**
+	    	 * Move slideshow to the right
+	    	 */
+	   		function moveRight() {
+	       		if (pg_position < pg_count - pg_shift) {
+	         		pg_position += pg_shift;
+	        		moveGallery(1);
+	        	}
+	   		}
+	      
+	      	/**
+	      	 * Move slideshow to the left or rigth
+	      	 * @param shift int 1 => to the right, -1 => to the left
+	      	 */
+	   		function moveGallery(shift) {
+	   			
+	   			var gallery = document.id('cbi-images').getElements('img'); // all images in the slideshow
+	   			
+	   			var current = gallery[pg_position].getCoordinates(); // image at the current begining of the slideshow 
+	   			var mate = gallery[pg_position - shift * pg_shift].getCoordinates(); // image at the next begining of the slideshow after move
+				
+				var base = document.id('cbi-images').style.left == "" ? 0 : document.id('cbi-images').style.left.toInt(); // number of the left current relative position of the slideshow 
+					
+    			new Fx.Tween('cbi-images', { // move sllideshow with Mootools Fx.Tween
+    				duration: pg_duration,
+    				property: 'left'
+				}).start(base, base - Math.abs(current.left - mate.left) * shift);
+	  		}
+	  		
+	  	//]]>
+window.addEvent('domready', function() {
+
+Calendars.currentYear = "2016";
+Calendars.currentMonth = "2";
+Calendars.nextYear = "2016";
+Calendars.nextMonth = "3";
+Calendars.calendarType = "monthly";
+
+});
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});	var LGSelectCheckIn = "Click in Calendar on start date of your booking.";	var LGSelectCheckOut = "Click in Calendar on end date of your booking.";	var LGSelectCheckNext = "If you want to select another interval, click in Calendar on start date of your booking.";window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","./",true);r.send(null)}},840000);
+  </script>
+  <!--[if lte IE 6]>
+<link href="http://iitian.me/am/components/com_booking/assets/css/general-ie6.css?v=231" rel="stylesheet" type="text/css"/>
+<![endif]-->
+  <!--[if IE 7]>
+<link href="http://iitian.me/am/components/com_booking/assets/css/general-ie7.css?v=231" rel="stylesheet" type="text/css"/>
+<![endif]-->
+
+
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie7.css" /> <![endif]-->
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie8.css" /> <![endif]-->
+<!--[if IE 9]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie9.css" /> <![endif]-->
+</head>
+
+<body>
+	<div class="header">
+		<div id="header" class="container">
+
+			<div  class="row">
+												</div>
+
+			    				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+								<div class="moduletable topmenu">
+					<ul class="nav navbar-nav menu">
+<li class="item-135"><a href="../../../about-us" >About Us</a></li><li class="item-137"><a href="../../../2013-09-02-14-49-57" >    Contacts</a></li></ul>
+		</div>
+	
+					</div>
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+								<div class="moduletable searchbar">
+					<div class="search searchbar">
+	<form action="../../equipments" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search!</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="22" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="148" />
+	</form>
+</div>
+		</div>
+	
+					</div>
+				</div>
+			    
+			    <div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					    <div id="logo">
+						  <a href="../../../index.php">
+						      <img style="width:302px; height:60px; " src="../../../images/os_template_logo.png" alt="Logo" />
+						  </a>
+					    </div>
+					</div>
+								    <div class="main_menu">
+						<nav id="site-navigation-main" class="navbar" role="navigation">
+							<div class="navbar-header">
+						      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+						        <i class="fa fa-bars"></i>
+						      </button>
+						    </div>
+							<div id="main-navbar-collapse" class="collapse navbar-collapse">
+										<div class="moduletable_menu">
+					<ul class="nav navbar-nav menu">
+<li class="item-101"><a href="../../../index.html" >Home</a></li><li class="item-205 deeper parent"><a href="../../../people" >People</a><ul class="nav-child unstyled small"><li class="item-206"><a href="../../../people/faculty" >Faculty</a></li><li class="item-207"><a href="../../../people/staff" >Staff</a></li><li class="item-208"><a href="../../../people/departmental-assignments" >Departmental Assignments</a></li><li class="item-209"><a href="../../../people/visitors" >Visitors</a></li><li class="item-241 deeper parent"><a href="../../../people/students" >Students</a><ul class="nav-child unstyled small"><li class="item-245"><a href="../../../people/students/submit-profile" >Submit Profile</a></li></ul></li></ul></li><li class="item-117"><a href="../../../academics" >Academics</a></li><li class="item-102 deeper parent"><a href="../../../research" >Research</a><ul class="nav-child unstyled small"><li class="item-103"><a href="../../../research/solid-mechanics" >Solid Mechanics</a></li><li class="item-200"><a href="../../../research/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-201"><a href="../../../research/material-science" >Material Science</a></li><li class="item-202"><a href="../../../research/design-engineering" >Design Engineering</a></li><li class="item-203"><a href="../../../research/honours-and-awards" >Honours and Awards</a></li></ul></li><li class="item-147 active deeper parent"><a href="../../147/all_categories" >Library</a><ul class="nav-child unstyled small"><li class="item-194"><a href="../../books/194/all_categories" >Books</a></li><li class="item-195 current active"><a href="../../equipments" >Equipments</a></li></ul></li><li class="item-192"><a href="../../../events" >Events</a></li><li class="item-146 deeper parent"><a href="../../../publications" >Publications</a><ul class="nav-child unstyled small"><li class="item-196"><a href="../../../publications/solid-mechanics" >Solid Mechanics</a></li><li class="item-197"><a href="../../../publications/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-198"><a href="../../../publications/material-science" >Material Science</a></li></ul></li><li class="item-110"><a href="../../../facilities" >Facilities</a></li><li class="item-193"><a href="../../../placement" >Placement</a></li></ul>
+		</div>
+	
+							</div>
+						</nav><!-- #site-navigation -->
+				    </div>
+							    </div>
+			</div> <!--id header-->
+		 </div> <!--class header-->
+
+		<div id="wrapper" class="container">
+		    			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="moduletable">
+					
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li><a href="../../../index.html" class="pathway">Home</a><span class="divider"><img src="../../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../../147/all_categories" class="pathway">Library</a><span class="divider"><img src="../../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../../equipments" class="pathway">Equipments</a><span class="divider"><img src="../../../media/system/images/arrow.png" alt="" /></span></li><li class="active"><span>Equipment 1</span></li></ul>
+		</div>
+	
+					
+				</div>
+			</div>
+		    		</div>
+		
+		<div class="slideshow">
+			<div id="header" class="container">
+							</div>
+		</div>
+		
+	<div class="department">
+		<div id="header" class="container">
+		 			</div>
+	</div>
+	<div class="feature">
+		<div id="wrapper" class="container">
+		    
+		    
+			<div id="globalContent">
+
+				
+			    <div class="row">
+					
+						<div id="contentBox" class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+							<div><div id="system-message-container">
+	</div>
+</div>
+							<div>	<a href="../items" title="" class="bookit-back button">Back</a>
+
+	<form name="bookSetting" id="bookSetting" method="post" action="1-equipment-1#caltop">
+
+	<h1 class="title">
+        Equipment 1    </h1>
+        <div class="info">
+    		<div id="photogallery" class="photogallery">
+      			<div class="leftButton" onclick="moveLeft();"></div>  				<div id="photogallery-images" class="display">
+  					<div id="cbi-images" class="images" style="width: 50px">
+	
+  								<a href="../../../cache/com_booking/6/7/7/4/4/img-6678w600.JPG" title="" rel="lightbox-atomium">
+  								<img src="../../../cache/com_booking/2/0/2/5/4/img-6678w50h50.JPG" alt="" />
+  								</a>
+  					</div>
+  				</div>
+     			<div class="rightButton" onclick="moveRight();"></div>     			<div class="cleaner"></div>    		</div>
+</div>
+
+<a name="calendar"></a>
+
+		
+ 	<div class="properties-block">		
+		<h2 class="subjectSubtitle">Properties</h2>
+		</div>
+    
+    	<div class="fulltext">This is a test equipment 1.
+
+Kindly do not book this item!!</div>
+				<div class="calendarsSelect" id="calendarsSelect">
+					<!--AJAX_calendarsSelect-->
+					<strong>Switch to</strong>
+							<span class="firstlast weekly">
+							<a href="javascript:Calendars.requestNavigation('/am/library/equipments/item/1-equipment-1?calendar=weekly')" title="">Week Layout</a>
+						</span>
+						<!--/AJAX_calendarsSelect-->
+				</div>
+	<div id="bookingCalendar">
+<!--AJAX_bookingCalendar-->
+<style type="text/css"></style>
+	
+	<!-- Book it section -->
+	
+		<div class="bookInterval">
+			<a id="calendar"></a>
+									<div class="bookit">
+				<div class="checkInfo checkInfoMessage" id="checkInfo"></div>
+				<h2 id="total">&nbsp;</h2>
+				<a class="checkButton bookitButton" id="bookIt" href="javascript:Calendars.bookIt()">
+					Book it</a>
+									<input type="hidden" name="capacity" id="capacity" value="1" />
+							</div>
+		</div>
+<div class="clr"></div>
+ 
+ 	 		
+ 
+		<h2></h2>
+	<div class="prices">
+									<input type="hidden" value="1" name="rids[]" />
+									<input type="hidden" value="2" name="rids[]" />
+				 
+		<div class="clr"></div>
+	</div>
+	<div class="clr"></div>
+	<div class="quickNavigator">
+		<label for="imonth">Select Month: </label>
+		<select id="imonth" name="imonth" onchange="Calendars.monthNavigation(this.value)">
+	<option value="2,2016" selected="selected">February 2016</option>
+	<option value="3,2016">March 2016</option>
+	<option value="4,2016">April 2016</option>
+	<option value="5,2016">May 2016</option>
+	<option value="6,2016">June 2016</option>
+	<option value="7,2016">July 2016</option>
+</select>
+	</div>
+<div>
+<h2 class="subjectSubtitle calendarTitle">February 2016</h2>
+<table id="top" class="monthlyCalendar">
+	<!-- Days names header -->
+		<thead>
+		<tr>
+			<th>Week</th>
+						<th width="14%">Mon</th>
+			<th width="14%">Tue</th>
+			<th width="14%">Wed</th>
+			<th width="14%">Thu</th>
+			<th width="14%">Fri</th>
+			<th width="14%">Sat</th>
+							<th width="14%">Sun</th>
+					</tr>
+	</thead>
+		<!-- Body with months days -->
+	<tbody>
+	<tr>
+			<td class="week">
+				<span class="week">5</span>
+							</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >01 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >02 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >03 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >04 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >05 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >06 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >07 Feb</span>
+							 
+				</td>
+							</tr>
+							<tr>
+							<td class="week">
+								<span class="week">6</span>
+															</td>
+						
+						<td class="day reserved" style="" title="">
+												<span class="date" >08 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >09 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >10 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >11 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >12 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >13 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >14 Feb</span>
+							 
+				</td>
+							</tr>
+							<tr>
+							<td class="week">
+								<span class="week">7</span>
+															</td>
+						
+						<td class="day reserved" style="" title="">
+												<span class="date" >15 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >16 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >17 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >18 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >19 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >20 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >21 Feb</span>
+							 
+				</td>
+							</tr>
+							<tr>
+							<td class="week">
+								<span class="week">8</span>
+															</td>
+						
+						<td class="day reserved" style="" title="">
+												<span class="date" >22 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >23 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >24 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >25 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >26 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >27 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >28 Feb</span>
+							 
+				</td>
+							</tr>
+							<tr>
+							<td class="week">
+								<span class="week">9</span>
+															</td>
+						
+						<td class="day reserved" style="" title="">
+												<span class="date" >29 Feb</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >01 Mar</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >02 Mar</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >03 Mar</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >04 Mar</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >05 Mar</span>
+							 
+				</td>
+						<td class="day reserved" style="" title="">
+												<span class="date" >06 Mar</span>
+							 
+				</td>
+			</tr>
+	</tbody>
+</table>
+</div>
+<!-- Calendar pagination -->
+<div class="calendarPagination">
+		<span class="currentPage"> 
+		<a href="javascript:Calendars.monthNavigation(2,2016)">Current Month</a>
+	</span> 
+			<span class="nextPage"> 
+			<a href="javascript:Calendars.monthNavigation(3,2016)">Next Month&nbsp;&gt;&gt;</a> 
+		</span>
+	</div>
+<!--/AJAX_bookingCalendar-->
+</div>
+<!--
+AJAX_EVAL_BEGIN
+	AJAX_EVAL_END
+-->		<div id="formFoot">
+			<!--AJAX_formFoot-->
+				<input type="hidden" name="booking_site_subject_tester" value="1" />
+				<input type="hidden" name="controller" value="" />
+				<input type="hidden" name="view" value="subject" />
+				<input type="hidden" name="task" value="display" />
+                <input type="hidden" name="tmpl" value="" />
+                <input type="hidden" name="mode" value="" />
+                <input type="hidden" name="changed_reservation_item_id" value="0" />
+				<input type="hidden" name="operation" value="0" />
+				<input type="hidden" name="Itemid" value="195" />
+				                                            <input type="hidden" name="month" value="02" />
+                                                                                    <input type="hidden" name="year" value="2016" />
+                                                                                    <input type="hidden" name="week" value="10" />
+                                        				<input type="hidden" name="lang" value="" />
+				<input type="hidden" name="ctype" value="monthly" />
+				<input type="hidden" name="subject[0]" value="1" />
+                			<!--/AJAX_formFoot-->
+		</div>
+	</form>
+</div>
+							
+						</div>
+
+											<div class="sidebar-right col-lg-3 col-md-3 col-sm-3 col-xs-12">
+									<div class="moduletable happenings">
+					<h3>Latest Updates</h3>
+						<div class="nspMain  happenings" id="nsp-nsp-108" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">		
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages0">
+										</div>
+				</div>
+			</div>
+						<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages3">
+																				<ul class="nspList active nspCol3">
+														
+							<li class="even"><h4><a href="../../../latest-updates/44-nomination-to-bog" title="Nomination to BOG" target="_self">Nomination to BOG</a></h4><p>[ July, 2014]
+Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of th&hellip;</p></li>							
+																											
+							<li class="odd"><h4><a href="../../../latest-updates/43-prof-santosh-kapuria-selected-insa-fellow" title="Prof Santosh Kapuria selected INSA Fellow" target="_self">Prof Santosh Kapuria selected INSA Fellow</a></h4><p>[ October, 2014]
+Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected &hellip;</p></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<h3>Login</h3>
+					<form action="../../equipments" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Username"></span>
+							<label for="modlgn-username" class="element-invisible">Username</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Username" />
+					</div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Password">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Password							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Password" />
+					</div>
+							</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Remember Me</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Log in</button>
+			</div>
+		</div>
+					<ul class="unstyled">
+							<li>
+					<a href="../../../component/users/index.html?view=registration">
+					Create an account <span class="icon-arrow-right"></span></a>
+				</li>
+							<li>
+					<a href="../../../component/users/index.html?view=remind">
+					Forgot your username?</a>
+				</li>
+				<li>
+					<a href="../../../component/users/index.html?view=reset">
+					Forgot your password?</a>
+				</li>
+			</ul>
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fYm9va2luZyZ2aWV3PXN1YmplY3QmaWQ9MSZJdGVtaWQ9MTk1" />
+		<input type="hidden" name="4c30e4884b913260a8ca1e5cb6604754" value="1" />	</div>
+	</form>
+		</div>
+	
+						</div>
+								    </div>
+
+				
+			</div> <!--globalContent-->
+
+		    		</div> <!-- wrapper --->
+		</div> <!-- feature --->
+		<div id="footer">
+		    <div class="container">
+				
+				
+				<div class="content_footer row">
+					<div class="copyrights col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<p>Copyright © Applied Mechanics - IIT Delhi. All Rights Reserved.</p>					</div>
+					<div class="soc_icons_box col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<ul class="soc_icons" >
+													</ul>
+					</div>
+				</div> <!--content_footer-->
+
+						    </div> 
+		</div> <!--id footer-->
+	</body>
+<script type="text/javascript"></script>
+</html>

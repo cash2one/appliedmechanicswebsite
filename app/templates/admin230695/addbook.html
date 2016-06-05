@@ -1,0 +1,13 @@
+{% include "header.html" %}
+{% from "_formhelpers.html" import render_field %}
+<center><form method=post action="/admin230695/addbook">
+  <dl>
+    {{ render_field(form.bookname) }}
+    {{ render_field(form.author) }}
+    {{ render_field(form.subject) }}
+    {{ render_field(form.isbn) }}
+    {{ render_field(form.numberavailable) }}
+  </dl>
+  <p><input type=submit value="Add Book">
+</form></center>
+{% include "footer.html" %}

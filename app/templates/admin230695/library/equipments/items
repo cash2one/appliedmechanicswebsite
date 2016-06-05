@@ -1,0 +1,439 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" src="../../templates/ordasofttemplate-basetemplate/javascript/jquery.js"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+	
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,600,900,500,400,100,800,200,700' rel='stylesheet' type='text/css'>
+
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Applied Mechanics Department - IIT Delhi" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title> - Applied Mechanics - IIT Delhi</title>
+  <link href="items" rel="canonical" />
+  <link href="../../templates/ordasofttemplate-basetemplate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="../../component/search/index.html?Itemid=195&amp;format=opensearch" rel="search" title="Search Applied Mechanics - IIT Delhi" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="../../components/com_booking/assets/css/general.css?v=231" type="text/css" />
+  <link rel="stylesheet" href="../../components/com_booking/assets/css/view-subjects.css?v=231" type="text/css" />
+  <link rel="stylesheet" href="../../templates/ordasofttemplate-basetemplate/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/ordasofttemplate-basetemplate/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/ordasofttemplate-basetemplate/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="../../modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <style type="text/css">
+.aIconNew {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-new.png) no-repeat scroll left center;
+}
+.aIconNotice {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-notice-note.png) no-repeat scroll left center;
+}
+.aIconTick {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-tick.png) no-repeat scroll left center;
+}
+.aIconUnpublish {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-storno.png) no-repeat scroll left center;
+}
+.aIconOnline {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-online.png) no-repeat scroll left center;
+}
+.aIconTrash {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-trash.png) no-repeat scroll left center;
+}
+.aIconPending {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-pending.png) no-repeat scroll left center;
+}
+.aIconPublished {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-publish.png) no-repeat scroll left center;
+}
+.aIconExpired {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-unpublish.png) no-repeat scroll left center;
+}
+.aIconArchived {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-disabled.png) no-repeat scroll left center;
+}
+.aIconEdit {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-edit.png) no-repeat scroll left center;
+}
+.aIconInvoice {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-invoice.png) no-repeat scroll left center;
+}
+.aIconInfo {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-info.png) no-repeat scroll left center;
+}
+.aIconDefault {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-default.png) no-repeat scroll left center;
+}
+.aIconEmail {
+    background: transparent url(../../components/com_booking/assets/images/icon-16-email.png) no-repeat scroll left center;
+}
+.aIconToolProfile {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-card.png) no-repeat scroll left center;
+}
+.aIconToolEdit {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-edit.png) no-repeat scroll left center;
+}
+.aIconToolReservations {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-edittime.png) no-repeat scroll left center;
+}
+.aIconToolSave {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-save.png) no-repeat scroll left center;
+}
+.aIconToolCancel {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-cancel.png) no-repeat scroll left center;
+}
+.aIconToolApply {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-apply.png) no-repeat scroll left center;
+}
+.aIconToolTrash {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-delete.png) no-repeat scroll left center;
+}
+.aIconToolRestore {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-restore.png) no-repeat scroll left center;
+}
+.aIconToolBack {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-back.png) no-repeat scroll left center;
+}
+.aIconToolPublish {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-publish.png) no-repeat scroll left center;
+}
+.aIconToolUnpublish {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-unpublish.png) no-repeat scroll left center;
+}
+.aIconToolPending {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-query.png) no-repeat scroll left center;
+}
+.aIconToolAdd {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-add.png) no-repeat scroll left center;
+}
+.aIconToolDelete {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-trash.png) no-repeat scroll left center;
+}
+.aIconToolInvoice {
+    background: transparent url(../../components/com_booking/assets/images/icon-32-invoice.png) no-repeat scroll left center;
+}
+.aIconBuy {
+    background: transparent url(../../components/com_booking/assets/images/icon-48-buy.png) no-repeat scroll left center;
+}
+
+  </style>
+  <script src="../../media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://localhost/am2/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="../../media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="../../media/system/js/core.js" type="text/javascript"></script>
+  <script src="../../media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="../../components/com_booking/assets/js/common.js?v=231" type="text/javascript"></script>
+  <script src="../../components/com_booking/assets/js/joomla.javascript.js?v=231" type="text/javascript"></script>
+  <script src="../../components/com_booking/assets/js/view-images.js?v=231" type="text/javascript"></script>
+  <script src="../../components/com_booking/assets/js/view-subjects.js?v=231" type="text/javascript"></script>
+  <script src="../../templates/ordasofttemplate-basetemplate/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="../../templates/ordasofttemplate-basetemplate/javascript/custom.js" type="text/javascript"></script>
+  <script src="../../modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+  <script type="text/javascript">
+	var LGMidnight = "Midnight";	var LGAreYouSure = "Are you sure?";	var LGAddDirname = "ADD_DIRECTORY_NAME";	var LGSelectToDefault = "SELECT_IMAGE_WHICH_YOU_WANT_TO_SELECT_AS_DEFAULT";jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					$(this).data('tip:title', parts[0]);
+					$(this).data('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","./",true);r.send(null)}},840000);
+  </script>
+  <!--[if lte IE 6]>
+<link href="http://iitian.me/am/components/com_booking/assets/css/general-ie6.css?v=231" rel="stylesheet" type="text/css"/>
+<![endif]-->
+  <!--[if IE 7]>
+<link href="http://iitian.me/am/components/com_booking/assets/css/general-ie7.css?v=231" rel="stylesheet" type="text/css"/>
+<![endif]-->
+  <!--[if IE 7]>
+<link href="http://iitian.me/am/components/com_booking/assets/css/view-subjects-ie7.css?v=231" rel="stylesheet" type="text/css"/>
+<![endif]-->
+
+
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie7.css" /> <![endif]-->
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie8.css" /> <![endif]-->
+<!--[if IE 9]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie9.css" /> <![endif]-->
+</head>
+
+<body>
+	<div class="header">
+		<div id="header" class="container">
+
+			<div  class="row">
+												</div>
+
+			    				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+								<div class="moduletable topmenu">
+					<ul class="nav navbar-nav menu">
+<li class="item-135"><a href="../../about-us" >About Us</a></li><li class="item-137"><a href="../../2013-09-02-14-49-57" >    Contacts</a></li></ul>
+		</div>
+	
+					</div>
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+								<div class="moduletable searchbar">
+					<div class="search searchbar">
+	<form action="../equipments" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search!</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="22" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="148" />
+	</form>
+</div>
+		</div>
+	
+					</div>
+				</div>
+			    
+			    <div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					    <div id="logo">
+						  <a href="../../index.php">
+						      <img style="width:302px; height:60px; " src="../../images/os_template_logo.png" alt="Logo" />
+						  </a>
+					    </div>
+					</div>
+								    <div class="main_menu">
+						<nav id="site-navigation-main" class="navbar" role="navigation">
+							<div class="navbar-header">
+						      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+						        <i class="fa fa-bars"></i>
+						      </button>
+						    </div>
+							<div id="main-navbar-collapse" class="collapse navbar-collapse">
+										<div class="moduletable_menu">
+					<ul class="nav navbar-nav menu">
+<li class="item-101"><a href="../../index.html" >Home</a></li><li class="item-205 deeper parent"><a href="../../people" >People</a><ul class="nav-child unstyled small"><li class="item-206"><a href="../../people/faculty" >Faculty</a></li><li class="item-207"><a href="../../people/staff" >Staff</a></li><li class="item-208"><a href="../../people/departmental-assignments" >Departmental Assignments</a></li><li class="item-209"><a href="../../people/visitors" >Visitors</a></li><li class="item-241 deeper parent"><a href="../../people/students" >Students</a><ul class="nav-child unstyled small"><li class="item-245"><a href="../../people/students/submit-profile" >Submit Profile</a></li></ul></li></ul></li><li class="item-117"><a href="../../academics" >Academics</a></li><li class="item-102 deeper parent"><a href="../../research" >Research</a><ul class="nav-child unstyled small"><li class="item-103"><a href="../../research/solid-mechanics" >Solid Mechanics</a></li><li class="item-200"><a href="../../research/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-201"><a href="../../research/material-science" >Material Science</a></li><li class="item-202"><a href="../../research/design-engineering" >Design Engineering</a></li><li class="item-203"><a href="../../research/honours-and-awards" >Honours and Awards</a></li></ul></li><li class="item-147 active deeper parent"><a href="../147/all_categories" >Library</a><ul class="nav-child unstyled small"><li class="item-194"><a href="../books/194/all_categories" >Books</a></li><li class="item-195 current active"><a href="../equipments" >Equipments</a></li></ul></li><li class="item-192"><a href="../../events" >Events</a></li><li class="item-146 deeper parent"><a href="../../publications" >Publications</a><ul class="nav-child unstyled small"><li class="item-196"><a href="../../publications/solid-mechanics" >Solid Mechanics</a></li><li class="item-197"><a href="../../publications/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-198"><a href="../../publications/material-science" >Material Science</a></li></ul></li><li class="item-110"><a href="../../facilities" >Facilities</a></li><li class="item-193"><a href="../../placement" >Placement</a></li></ul>
+		</div>
+	
+							</div>
+						</nav><!-- #site-navigation -->
+				    </div>
+							    </div>
+			</div> <!--id header-->
+		 </div> <!--class header-->
+
+		<div id="wrapper" class="container">
+		    			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="moduletable">
+					
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li><a href="../../index.html" class="pathway">Home</a><span class="divider"><img src="../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../147/all_categories" class="pathway">Library</a><span class="divider"><img src="../../media/system/images/arrow.png" alt="" /></span></li><li class="active"><span>Equipments</span></li></ul>
+		</div>
+	
+					
+				</div>
+			</div>
+		    		</div>
+		
+		<div class="slideshow">
+			<div id="header" class="container">
+							</div>
+		</div>
+		
+	<div class="department">
+		<div id="header" class="container">
+		 			</div>
+	</div>
+	<div class="feature">
+		<div id="wrapper" class="container">
+		    
+		    
+			<div id="globalContent">
+
+				
+			    <div class="row">
+					
+						<div id="contentBox" class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+							<div><div id="system-message-container">
+	</div>
+</div>
+							<div><form name="list" id="list" action="items" method="post">
+							<div class="subjectsList">
+							<div class="subject">
+													<h2>
+							<a href="item/1-equipment-1" title="Show Item::Equipment 1" class="hasTip">
+								Equipment 1							</a>
+						</h2>
+														<p class="readmore">This is a test equipment 1.
+
+Kindly do not book this item!!</p>
+							
+								<div class="clr"></div>
+								<div class="bookit">
+									<a href="item/1-equipment-1" title="" class="button">Make a Reservation</a>
+								</div> 
+													<div class="clr"></div>
+											</div>
+							<div class="subject">
+													<h2>
+							<a href="item/2-equipment-2" title="Show Item::Equipment 2" class="hasTip">
+								Equipment 2							</a>
+						</h2>
+														<p class="readmore">This is a test description for Equipment2. 
+
+Kindly ignore and add what's to be added after the data is received.</p>
+							
+								<div class="clr"></div>
+								<div class="bookit">
+									<a href="item/2-equipment-2" title="" class="button">Make a Reservation</a>
+								</div> 
+													<div class="clr"></div>
+											</div>
+							<div class="subjectListPagination pagination">
+						
+<div class="pagination pagination-toolbar clearfix" style="text-align: center;">
+
+			<div class="limit pull-right">
+			Display #<select id="limit" name="limit" class="inputbox" size="1" onchange="this.form.submit()">
+	<option value="5">5</option>
+</select>
+		</div>
+	
+	
+			<input type="hidden" name="limitstart" value="0" />
+	
+</div>
+					</div>
+					<div class="clr"></div>
+			</div>
+	<input type="hidden" name="booking_subjects_list_tester" value="1" />
+	<input type="hidden" name="reset" value="0" />
+</form></div>
+							
+						</div>
+
+											<div class="sidebar-right col-lg-3 col-md-3 col-sm-3 col-xs-12">
+									<div class="moduletable happenings">
+					<h3>Latest Updates</h3>
+						<div class="nspMain  happenings" id="nsp-nsp-108" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">		
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages0">
+										</div>
+				</div>
+			</div>
+						<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages3">
+																				<ul class="nspList active nspCol3">
+														
+							<li class="even"><h4><a href="../../latest-updates/44-nomination-to-bog" title="Nomination to BOG" target="_self">Nomination to BOG</a></h4><p>[ July, 2014]
+Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of th&hellip;</p></li>							
+																											
+							<li class="odd"><h4><a href="../../latest-updates/43-prof-santosh-kapuria-selected-insa-fellow" title="Prof Santosh Kapuria selected INSA Fellow" target="_self">Prof Santosh Kapuria selected INSA Fellow</a></h4><p>[ October, 2014]
+Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected &hellip;</p></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<h3>Login</h3>
+					<form action="../equipments" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Username"></span>
+							<label for="modlgn-username" class="element-invisible">Username</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Username" />
+					</div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Password">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Password							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Password" />
+					</div>
+							</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Remember Me</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Log in</button>
+			</div>
+		</div>
+					<ul class="unstyled">
+							<li>
+					<a href="../../component/users/index.html?view=registration">
+					Create an account <span class="icon-arrow-right"></span></a>
+				</li>
+							<li>
+					<a href="../../component/users/index.html?view=remind">
+					Forgot your username?</a>
+				</li>
+				<li>
+					<a href="../../component/users/index.html?view=reset">
+					Forgot your password?</a>
+				</li>
+			</ul>
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xOTU=" />
+		<input type="hidden" name="4c30e4884b913260a8ca1e5cb6604754" value="1" />	</div>
+	</form>
+		</div>
+	
+						</div>
+								    </div>
+
+				
+			</div> <!--globalContent-->
+
+		    		</div> <!-- wrapper --->
+		</div> <!-- feature --->
+		<div id="footer">
+		    <div class="container">
+				
+				
+				<div class="content_footer row">
+					<div class="copyrights col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<p>Copyright © Applied Mechanics - IIT Delhi. All Rights Reserved.</p>					</div>
+					<div class="soc_icons_box col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<ul class="soc_icons" >
+													</ul>
+					</div>
+				</div> <!--content_footer-->
+
+						    </div> 
+		</div> <!--id footer-->
+	</body>
+<script type="text/javascript"></script>
+</html>

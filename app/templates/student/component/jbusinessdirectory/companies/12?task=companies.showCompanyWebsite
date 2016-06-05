@@ -1,0 +1,1399 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Joomla Extensions and Templates - CMS Junkie</title>
+<meta name="description" content="CMS Junkie offers Joomla extensions and templates, themes and extensions for Drupal, Magento and Wordpress, premium top quality commercial products." />
+<meta name="keywords" content="Joomla extensions, Joomla templates, Joomla, themes, Drupal, Magento, Wordpress, extensions, templates, modules, premium, commercial" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://www.cmsjunkie.com/media/favicon/stores/1/favicon_2_.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.cmsjunkie.com/media/favicon/stores/1/favicon_2_.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.cmsjunkie.com/js/blank.html';
+    var BLANK_IMG = 'http://www.cmsjunkie.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.cmsjunkie.com/media/css/73c42b6412db1adf23d69a74cef62768.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.cmsjunkie.com/media/css/b72a48ab3aac859e410085944a5b37bf.css" media="print" />
+<script type="text/javascript" src="http://www.cmsjunkie.com/media/js/26aa51bac77e3ca093e343872cb48a65.js"></script>
+<link href="http://www.cmsjunkie.com/blog/rss/index/store_id/1/" title="News" rel="alternate" type="application/rss+xml" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.cmsjunkie.com/media/css/4a6c3b6939d82b2007103e24cdc60af8.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.cmsjunkie.com/media/js/c3688c64568cb07e83d16ebc47a2b71f.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://www.cmsjunkie.com/media/js/219c795d533032b4060cb3be31e4b3b8.js"></script>
+<![endif]-->
+<!--[if !IE]>
+<script type="text/javascript" src="http://www.cmsjunkie.com/media/js/7cb5ec855e1196a2c984649ed799496a.js"></script>
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:300,400,700' rel='stylesheet' type='text/css'>
+<link href='http://www.cmsjunkie.com/skin/frontend/default/shopper/css/options.css.php?store=default' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.cmsjunkie.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-8738454-1']);
+
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script><script type="text/javascript">
+    //<![CDATA[
+    var Shopper = {};
+	Shopper.url = 'http://www.cmsjunkie.com/';
+    Shopper.store = 'default';
+    Shopper.category = '';
+	Shopper.price_circle = 1;
+    Shopper.fixed_header = 1;
+    Shopper.totop = 1;
+    Shopper.responsive = 1;
+    Shopper.quick_view = 1;
+    Shopper.shopby_num = '5';
+    Shopper.anystretch_bg = '';
+        //]]>
+</script>
+</head>
+<body class="  cms-index-index cms-cmsjunkie-home">
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+     chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+		
+        
+<!-- HEADER BOF -->
+<div class="header-container">
+    <div class="top-switch-bg">
+        <div class="row clearfix">
+            <div class="grid_6">
+                
+<!-- LANGUAGES BOF -->
+<!-- LANGUAGES EOF -->                
+<!-- Currency BOF -->
+<!-- Currency EOF -->            </div>
+            <div class="grid_6">
+                <ul class="links">
+		
+	 <li class="first ">
+	 <div class="forumStyle"><a href="http://www.cmsjunkie.com/forum/">Support Forum</a> | <a href="http://www.cmsjunkie.com/helpdesk/customer/index/">Submit a ticket</a></div></li> 
+	
+                        <li ><a href="http://www.cmsjunkie.com/customer/account/" title="Account" >Account</a></li>
+			            <li class="separator">&nbsp;</li>
+			                                <li ><a href="http://www.cmsjunkie.com/blog/" title="News" >News</a></li>
+			            <li class="separator">&nbsp;</li>
+			                                <li ><a href="https://www.cmsjunkie.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+			            <li class="separator">&nbsp;</li>
+			                                <li ><a href="http://www.cmsjunkie.com/customer/account/login/" title=" Log In" > Log In</a></li>
+			                    <li class="separator">&nbsp;</li>
+        <li><a href="http://www.cmsjunkie.com/customer/account/create/">Sign Up</a></li>
+    </ul>
+            </div>
+			
+        </div>
+    </div>
+	
+    <div class="header-wrapper">
+        <header>
+            <div class="row clearfix">
+                <div class="grid_12">
+                                        <h1 class="logo"><strong>CMSJunkie</strong><a href="12?task=companies.showCompanyWebsite" title="CMSJunkie" class="logo"><p><img title="CMS Junkie, Joomla extensions &amp; templates" src="http://www.cmsjunkie.com/media/wysiwyg/junkie_logo_new.png" alt="CMS Junkie" width="191" height="54" /></p></a></h1>
+                                        <!-- NAVIGATION -->
+                    <!-- navigation BOF -->
+<nav class="queldorei">
+    <div class="nav-top-title"><div class="icon"><span></span><span></span><span></span></div><a href="12?task=companies.showCompanyWebsite#">Navigation</a></div>
+    <ul id="queldoreiNav">
+	             <li class="level0 level-top">
+         	<a href="12?task=companies.showCompanyWebsite"><span>Home</span></a>
+         </li>
+             <li class="level0 nav-1 level-top first parent">
+<a href="http://www.cmsjunkie.com/joomla" class="level-top">
+<span>Joomla</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-1-1 first parent">
+<a href="http://www.cmsjunkie.com/joomla-templates">
+<span>Joomla Templates</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level1">
+<li class="level2 nav-1-1-1 first">
+<a href="http://www.cmsjunkie.com/joomla_business">
+<span>Joomla Business</span>
+</a>
+</li><li class="level2 nav-1-1-2">
+<a href="http://www.cmsjunkie.com/joomla_hotel_templates">
+<span>Joomla Hotel Templates</span>
+</a>
+</li><li class="level2 nav-1-1-3">
+<a href="http://www.cmsjunkie.com/joomla_restaurant">
+<span>Joomla Restaurant</span>
+</a>
+</li><li class="level2 nav-1-1-4">
+<a href="http://www.cmsjunkie.com/joomla_travel">
+<span>Joomla Travel</span>
+</a>
+</li><li class="level2 nav-1-1-5">
+<a href="http://www.cmsjunkie.com/joomla_corporate">
+<span>Joomla Corporate</span>
+</a>
+</li><li class="level2 nav-1-1-6">
+<a href="http://www.cmsjunkie.com/free_joomla-templates">
+<span>Free Joomla Templates</span>
+</a>
+</li><li class="level2 nav-1-1-7">
+<a href="http://www.cmsjunkie.com/joomla_art_photography">
+<span>Joomla Art &amp; Photograhy</span>
+</a>
+</li><li class="level2 nav-1-1-8 last">
+<a href="http://www.cmsjunkie.com/joomla_design">
+<span>Joomla Design</span>
+</a>
+</li>
+</ul>
+</div>
+</li><li class="level1 nav-1-2 last parent">
+<a href="http://www.cmsjunkie.com/joomla-extensions">
+<span>Joomla Extensions</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level1">
+<li class="level2 nav-1-2-9 first">
+<a href="http://www.cmsjunkie.com/joomla_hotel">
+<span>Joomla Hotel</span>
+</a>
+</li><li class="level2 nav-1-2-10">
+<a href="http://www.cmsjunkie.com/joomla_booking">
+<span>Joomla Booking</span>
+</a>
+</li><li class="level2 nav-1-2-11">
+<a href="http://www.cmsjunkie.com/joomla_business_directory">
+<span>Joomla Business Directory</span>
+</a>
+</li><li class="level2 nav-1-2-12">
+<a href="http://www.cmsjunkie.com/joomla-classifieds">
+<span>Joomla Classifieds</span>
+</a>
+</li><li class="level2 nav-1-2-13">
+<a href="http://www.cmsjunkie.com/joomla-cruise-reservation">
+<span>Joomla Cruise Reservation</span>
+</a>
+</li><li class="level2 nav-1-2-14">
+<a href="http://www.cmsjunkie.com/joomla_directory">
+<span>Joomla Directory</span>
+</a>
+</li><li class="level2 nav-1-2-15">
+<a href="http://www.cmsjunkie.com/joomla_subscription">
+<span>Joomla Subscription</span>
+</a>
+</li><li class="level2 nav-1-2-16">
+<a href="http://www.cmsjunkie.com/joomla_hotel_booking">
+<span>Joomla Hotel Booking</span>
+</a>
+</li><li class="level2 nav-1-2-17">
+<a href="http://www.cmsjunkie.com/joomla_javascript">
+<span>Joomla Javascript</span>
+</a>
+</li><li class="level2 nav-1-2-18">
+<a href="http://www.cmsjunkie.com/joomla-hotel-support-updates">
+<span>Joomla Hotel Support &amp; Updates</span>
+</a>
+</li><li class="level2 nav-1-2-19">
+<a href="http://www.cmsjunkie.com/joomla-flash">
+<span>Joomla Flash</span>
+</a>
+</li><li class="level2 nav-1-2-20 last">
+<a href="http://www.cmsjunkie.com/joomla/joomla-extensions/joomla-voting">
+<span>Joomla Voting</span>
+</a>
+</li>
+</ul>
+</div>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-2 level-top parent">
+<a href="http://www.cmsjunkie.com/wordpress" class="level-top">
+<span>WordPress</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-2-1 first">
+<a href="http://www.cmsjunkie.com/wordpress-themes">
+<span>Wordpress Themes</span>
+</a>
+</li><li class="level1 nav-2-2 last">
+<a href="http://www.cmsjunkie.com/wordpress-extensions">
+<span>WordPress Extensions</span>
+</a>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://www.cmsjunkie.com/magento" class="level-top">
+<span>Magento</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-3-1 first">
+<a href="http://www.cmsjunkie.com/magento_themes">
+<span> Magento Themes </span>
+</a>
+</li><li class="level1 nav-3-2 last">
+<a href="http://www.cmsjunkie.com/magento-extensions">
+<span>Magento Extensions</span>
+</a>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-4 level-top">
+<a href="http://www.cmsjunkie.com/discounts" class="level-top">
+<span>Discounts</span>
+</a>
+</li><li class="level0 nav-5 level-top last">
+<a href="http://www.cmsjunkie.com/showcase" class="level-top">
+<span>Showcase</span>
+</a>
+</li>		
+	
+		
+				
+		<li class="level0 nav-2 level-top">
+			<a class="level-top" href ="http://www.cmsjunkie.com/contacts/">
+				<span>Contact us</span>
+			</a>
+		</li>
+    </ul>
+</nav>
+<!-- navigation EOF -->                    <!-- NAVIGATION EOF -->
+                    <div class="top-dropdowns">
+                        <!-- cart BOF -->
+<div class="cart-top-title"><a href="http://www.cmsjunkie.com/checkout/cart/" class="clearfix"><span class="icon"></span>Cart</a></div>
+<div class="cart-top-container">
+    <div class="cart-top">
+        <a class="summary" href="http://www.cmsjunkie.com/checkout/cart/"><span>Cart (0)</span></a>
+    </div>
+    <div class="details">
+        <div class="details-border"></div>
+        <div class="cart-promotion"><span>Get 10% off when buying any hotel product with a template.</span></div>                        <p class="a-center">You have no items in your shopping cart.</p>
+            </div>
+</div>
+<!-- cart EOF -->                        <div class="compare-top-title"><a href="12?task=companies.showCompanyWebsite#" class="clearfix" onclick="popWin('http://www.cmsjunkie.com/catalog/product_compare/index/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><span class="icon"></span>Compare</a></div>
+<div class="compare-top-container">
+    <div class="compare-top">
+        <a class="summary" href="12?task=companies.showCompanyWebsite#" onclick="popWin('http://www.cmsjunkie.com/catalog/product_compare/index/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"></a>
+    </div>
+    <div class="details">
+        <div class="details-border"></div>
+            <p class="empty">You have no items to compare.</p>
+        </div>
+</div>                        <div class="search-top-container">
+    <div class="search-top"></div>
+    <div class="search-form">
+        <div class="search-form-border"></div>
+        <div class="search-top-title"><span class="icon"></span>Search</div>
+        <form id="search_mini_form" action="http://www.cmsjunkie.com/catalogsearch/result/" method="get">
+            <div class="form-search">
+                <input id="search" type="text" name="q" value="" class="input-text" />
+                <button type="submit" title="Search" ></button>
+            </div>
+            <div id="search_autocomplete" class="search-autocomplete"></div>
+            <script type="text/javascript">
+            //<![CDATA[
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Type and hit enter');
+                searchForm.initAutocomplete('http://www.cmsjunkie.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            //]]>
+            </script>
+        </form>
+    </div>
+</div>                        <div class="clear"></div>
+                    </div>
+                                    </div>
+            </div>
+        </header>
+    </div>
+</div>
+<!-- HEADER EOF -->
+    <!-- SLIDESHOW -->
+    <div class="slider">
+        <div id="slide-timeline"></div>
+        <div id="flexslider" class="flexslider">
+            <ul class="slides">
+                                <li style="background:url('http://www.cmsjunkie.com/media/queldorei/shopper/slideshow/slide1_1.jpg') 50% 0 no-repeat;" data-img-height="420" >
+                                        <img class="small_image" src="http://www.cmsjunkie.com/media/queldorei/shopper/slideshow/home_reservation_small.png" alt="" />
+                                        <div class="row text-left">
+                        <div class="content" style="width:400px;">
+                                                        <strong><div style="color: #333;font-size:30px">What we offer!</div></strong>
+                                                                                    <div class="border"></div>
+                                                                                    <p><div><br />
+<div style="position:absolute; right:0; top:40px"><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_t-A4UKbqg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+</div><br />
+<div style="float: left;text-align: left; color: #5A5A5A; font-size: 18px"><br />
+We offer key solutions in different areas like:   <font color="#000000">Hotel Reservations</font>,<font color="#000000"> Business directories</font>, <font color="#000000"> Classifieds</font>,  <font color="#000000">Templates & Design</font><br />
+<br/><br />
+We are now working with CMS/Ecommerce systems: <b>Joomla, Wordpress, Magento</b></div><br />
+</div></p>
+                                                                                </div>
+                    </div>
+                </li>
+                                <li style="background:url('http://www.cmsjunkie.com/media/queldorei/shopper/slideshow/slide2.jpg') 50% 0 no-repeat;" data-img-height="420" >
+                                        <div class="row text-right">
+                        <div class="content" style="width:750px;">
+                                                        <strong><div style="text-align: left;color: #FFFFFF;font-size:30px">We strive for excellence</div></strong>
+                                                                                    <div class="border"></div>
+                                                                                    <p><div style="text-align: left; font-size: 20px; color: #FFFFFF;text-shadow: 1px 1px #555"><br />
+<b>Our customers deserve the best </b> - Customers  are #1 when it comes to support.<br />
+<br />
+<b>Team of professionals </b> - Our team has 10 years +  experience.<br />
+<br />
+<b>Trusted by many </b> - Trusted by over 10,000 customers and growing. <br />
+</div></p>
+                                                                                </div>
+                    </div>
+                </li>
+                                <li style="background:url('http://www.cmsjunkie.com/media/queldorei/shopper/slideshow/slide3.jpg') 50% 0 no-repeat;" data-img-height="420" >
+                                        <div class="row text-left">
+                        <div class="content" >
+                                                        <strong><span style="font-size: 30px;color: #FFFFFF">Our services</span></strong>
+                                                                                    <div class="border"></div>
+                                                                                    <p><div style="color: #FFFFFF; font-size: 20px"><br />
+We offer a wide range of services<br />
+</p>
+                                                                                    <button class="button button_white" onclick="window.location='http://www.cmsjunkie.com/contacts/'"><span><span>Contact us</span></span></button>
+                                                    </div>
+                    </div>
+                </li>
+                                <li style="background:url('http://www.cmsjunkie.com/media/queldorei/shopper/slideshow/slide4.jpg') 50% 0 no-repeat;" data-img-height="420" >
+                                        <div class="row text-left">
+                        <div class="content" style="width:500px;">
+                                                        <strong><span style="color: #FFFFFF; font-size: 30px;">Showcase</span></strong>
+                                                                                    <div class="border"></div>
+                                                                                    <p><div style="font-size: 20px; color: #FFFFFF" ><br />
+Browse the <b>Showcase</b> to see some of our favorite implementations.<br />
+</div></p>
+                                                                                    <button class="button button_white" onclick="window.location='http://www.cmsjunkie.com/showcase'"><span><span>View Showcase</span></span></button>
+                                                    </div>
+                    </div>
+                </li>
+                            </ul>
+        </div>
+    </div>
+    <script>
+        var CONFIG_SLIDESHOW = {
+            animation: "slide",
+            slideshow: true,
+            useCSS: false,
+            animationLoop: true,
+            mousewheel: false,
+            smoothHeight: false,
+            slideshowSpeed: 7000,
+            animationSpeed: 800,
+            pauseOnAction: true,
+            pauseOnHover: true,
+            controlNav: true,
+            directionNav: true,
+            timeline: true,
+            height: "430"
+        }
+    </script>
+    <!-- SLIDESHOW EOF -->
+    		
+        <div class="main-container col1-layout">
+            <div class="main row clearfix">
+                <!-- breadcrumbs BOF -->
+<!-- breadcrumbs EOF -->
+                <div class="col-main">
+                                        <div class="std"><div class="home-main"><div class="category-products">
+    <h2>Featured Products</h2>
+        <ul class="products-grid two_columns_3">
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/j-businessdirectory" title="J-BusinessDirectory" class="product-image">
+                    <div class="sale-label sale-top-right"></div>                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/b/u/business-directory-logo-store_3.jpg" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/b/u/business-directory-logo-store_3.jpg" width="252" height="189" alt="J-BusinessDirectory" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="73"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-businessdirectory" title="J-BusinessDirectory">J-BusinessDirectory</a>
+                    
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label"></span>
+                <span class="price" id="old-price-73">
+                    $129.99                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-73">
+                    $99.99                </span>
+                </p>
+                    
+    
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/73/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox73'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/j-businessdirectory" title="J-BusinessDirectory" class="product-image">
+                <div class="sale-label sale-top-right"></div>                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/b/u/business-directory-logo-store_3.jpg" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/b/u/business-directory-logo-store_3.jpg" width="252" height="189" alt="J-BusinessDirectory" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/j-businessdirectory" title="J-BusinessDirectory">
+                
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label"></span>
+                <span class="price" id="old-price-73">
+                    <sup>$</sup>129.99                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-73">
+                    <sup>$</sup>99.99                </span>
+                </p>
+                    
+    
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-businessdirectory" title="J-BusinessDirectory">J-BusinessDirectory</a>
+                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:99%"></div>
+            </div>
+                <p class="rating-links">
+            <a href="http://www.cmsjunkie.com/review/product/list/id/73/">9 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://www.cmsjunkie.com/review/product/list/id/73/#review-form">Add Your Review</a>
+        </p>
+    </div>
+
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="73"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading73'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/73/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="73"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/73/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="73"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/j-myhotel-template" title="J-MyHotel Template" class="product-image">
+                                        <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/m/y/myhotel_template.fw.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/m/y/myhotel_template.fw.png" width="252" height="189" alt="J-MyHotel Template" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="104"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-myhotel-template" title="J-MyHotel Template">J-MyHotel Template</a>
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-104">
+                                            <span class="price">$50.00</span>                                    </span>
+                        
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/104/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox104'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/j-myhotel-template" title="J-MyHotel Template" class="product-image">
+                                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/m/y/myhotel_template.fw.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/m/y/myhotel_template.fw.png" width="252" height="189" alt="J-MyHotel Template" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/j-myhotel-template" title="J-MyHotel Template">
+                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-104">
+                                            <span class="price"><sup>$</sup>50.00</span>                                    </span>
+                        
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-myhotel-template" title="J-MyHotel Template">J-MyHotel Template</a>
+            
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="104"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading104'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/104/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="104"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/104/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="104"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/j-myclassifieds-template" title="J-MyClassifieds Template" class="product-image">
+                                        <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/j/-/j-myclassifieds.fw.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/j/-/j-myclassifieds.fw.png" width="252" height="189" alt="J-MyClassifieds Template" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="105"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-myclassifieds-template" title="J-MyClassifieds Template">J-MyClassifieds Template</a>
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-105">
+                                            <span class="price">$50.00</span>                                    </span>
+                        
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/105/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox105'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/j-myclassifieds-template" title="J-MyClassifieds Template" class="product-image">
+                                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/j/-/j-myclassifieds.fw.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/j/-/j-myclassifieds.fw.png" width="252" height="189" alt="J-MyClassifieds Template" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/j-myclassifieds-template" title="J-MyClassifieds Template">
+                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-105">
+                                            <span class="price"><sup>$</sup>50.00</span>                                    </span>
+                        
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-myclassifieds-template" title="J-MyClassifieds Template">J-MyClassifieds Template</a>
+            
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="105"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading105'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/105/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="105"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/105/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="105"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/j-mydirectory-template-103" title="J-MyDirectory Template" class="product-image">
+                                        <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/j/-/j-mydirectory-home.jpg" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/j/-/j-mydirectory-home.jpg" width="252" height="189" alt="J-MyDirectory Template" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="103"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-mydirectory-template-103" title="J-MyDirectory Template">J-MyDirectory Template</a>
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-103">
+                                            <span class="price">$50.00</span>                                    </span>
+                        
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/103/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox103'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/j-mydirectory-template-103" title="J-MyDirectory Template" class="product-image">
+                                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/j/-/j-mydirectory-home.jpg" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/j/-/j-mydirectory-home.jpg" width="252" height="189" alt="J-MyDirectory Template" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/j-mydirectory-template-103" title="J-MyDirectory Template">
+                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-103">
+                                            <span class="price"><sup>$</sup>50.00</span>                                    </span>
+                        
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-mydirectory-template-103" title="J-MyDirectory Template">J-MyDirectory Template</a>
+            
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="103"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading103'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/103/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="103"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/103/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="103"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/classifieds-manager" title="J-ClassifiedsManager" class="product-image">
+                    <div class="sale-label sale-top-right"></div>                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/j/_/j_admanager_logo_1.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/j/_/j_admanager_logo_1.png" width="252" height="189" alt="J-ClassifiedsManager" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="86"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/classifieds-manager" title="J-ClassifiedsManager">J-ClassifiedsManager</a>
+                    
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label"></span>
+                <span class="price" id="old-price-86">
+                    $59.99                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-86">
+                    $39.99                </span>
+                </p>
+                    
+    
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/86/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox86'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/classifieds-manager" title="J-ClassifiedsManager" class="product-image">
+                <div class="sale-label sale-top-right"></div>                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/j/_/j_admanager_logo_1.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/j/_/j_admanager_logo_1.png" width="252" height="189" alt="J-ClassifiedsManager" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/classifieds-manager" title="J-ClassifiedsManager">
+                
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label"></span>
+                <span class="price" id="old-price-86">
+                    <sup>$</sup>59.99                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-86">
+                    <sup>$</sup>39.99                </span>
+                </p>
+                    
+    
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/classifieds-manager" title="J-ClassifiedsManager">J-ClassifiedsManager</a>
+                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <p class="rating-links">
+            <a href="http://www.cmsjunkie.com/review/product/list/id/86/">4 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://www.cmsjunkie.com/review/product/list/id/86/#review-form">Add Your Review</a>
+        </p>
+    </div>
+
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="86"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading86'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/86/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="86"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/86/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="86"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/joomla-hotel-reservation" title="JHotelReservation Professional" class="product-image">
+                    <div class="sale-label sale-top-right"></div>                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_professional.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_professional.png" width="252" height="189" alt="JHotelReservation Professional" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="35"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/joomla-hotel-reservation" title="JHotelReservation Professional">JHotelReservation Professional</a>
+                    
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label"></span>
+                <span class="price" id="old-price-35">
+                    $129.99                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-35">
+                    $99.99                </span>
+                </p>
+                    
+    
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/35/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox35'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/joomla-hotel-reservation" title="JHotelReservation Professional" class="product-image">
+                <div class="sale-label sale-top-right"></div>                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_professional.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_professional.png" width="252" height="189" alt="JHotelReservation Professional" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/joomla-hotel-reservation" title="JHotelReservation Professional">
+                
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label"></span>
+                <span class="price" id="old-price-35">
+                    <sup>$</sup>129.99                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-35">
+                    <sup>$</sup>99.99                </span>
+                </p>
+                    
+    
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/joomla-hotel-reservation" title="JHotelReservation Professional">JHotelReservation Professional</a>
+                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:99%"></div>
+            </div>
+                <p class="rating-links">
+            <a href="http://www.cmsjunkie.com/review/product/list/id/35/">10 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://www.cmsjunkie.com/review/product/list/id/35/#review-form">Add Your Review</a>
+        </p>
+    </div>
+
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="35"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading35'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/35/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="35"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/35/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="35"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/j-voyage" title="J-Voyage Template" class="product-image">
+                                        <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/t/e/template_preview_4_2.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/t/e/template_preview_4_2.png" width="252" height="189" alt="J-Voyage Template" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="102"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-voyage" title="J-Voyage Template">J-Voyage Template</a>
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-102">
+                                            <span class="price">$50.00</span>                                    </span>
+                        
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/102/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox102'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/j-voyage" title="J-Voyage Template" class="product-image">
+                                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/t/e/template_preview_4_2.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/t/e/template_preview_4_2.png" width="252" height="189" alt="J-Voyage Template" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/j-voyage" title="J-Voyage Template">
+                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-102">
+                                            <span class="price"><sup>$</sup>50.00</span>                                    </span>
+                        
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/j-voyage" title="J-Voyage Template">J-Voyage Template</a>
+            
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="102"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading102'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/102/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="102"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/102/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="102"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+            <li class="item">
+            <div class="regular">
+                <a href="http://www.cmsjunkie.com/featured-products/joomla-multi-hotel-reservation" title="J-MultipleHotelReservation Professional" class="product-image">
+                                        <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_multiple.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_multiple.png" width="252" height="189" alt="J-MultipleHotelReservation Professional" />
+                </a>
+                <div class="product-info">
+                    <div class="button-container">
+                                                                                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="47"><span><span>Add to Cart</span></span></button></p>
+                                                                                                        </div>
+                                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/joomla-multi-hotel-reservation" title="J-MultipleHotelReservation Professional">J-MultipleHotelReservation Professional</a>
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-47">
+                                            <span class="price">$249.89</span>                                    </span>
+                        
+        </div>
+
+                </div>
+            </div>
+
+            <div class="hover">
+                        <a href='http://www.cmsjunkie.com/ajax/index/options/product_id/47/' data-fancybox-group="gallery" class='fancybox quick-view' id='fancybox47'>quick view</a>
+                        <a href="http://www.cmsjunkie.com/featured-products/joomla-multi-hotel-reservation" title="J-MultipleHotelReservation Professional" class="product-image">
+                                                    <img src="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/252x189/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_multiple.png" data-srcX2="http://www.cmsjunkie.com/media/catalog/product/cache/1/small_image/504x378/9df78eab33525d08d6e5fb8d27136e95/h/o/hotel_logo_multiple.png" width="252" height="189" alt="J-MultipleHotelReservation Professional" />
+                                </a>
+            <a href="http://www.cmsjunkie.com/featured-products/joomla-multi-hotel-reservation" title="J-MultipleHotelReservation Professional">
+                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-47">
+                                            <span class="price"><sup>$</sup>249.89</span>                                    </span>
+                        
+        </div>
+
+            </a>
+                        <a class="product-name" href="http://www.cmsjunkie.com/featured-products/joomla-multi-hotel-reservation" title="J-MultipleHotelReservation Professional">J-MultipleHotelReservation Professional</a>
+                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <p class="rating-links">
+            <a href="http://www.cmsjunkie.com/review/product/list/id/47/">4 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://www.cmsjunkie.com/review/product/list/id/47/#review-form">Add Your Review</a>
+        </p>
+    </div>
+
+            <div class="button-container">
+                
+                
+                                            <p><button type="button" title="Add to Cart" class="button btn-cart show-options" data-id="47"><span><span><em></em>Add to Cart</span></span></button></p>
+                        
+                    
+                            </div>
+
+            <span class="ajax_loading" id='ajax_loading47'><img src='http://www.cmsjunkie.com/skin/frontend/default/shopper/images/ajax-loader.gif'/></span>
+
+            <ul class="add-to-links">
+                                <li><a href="https://www.cmsjunkie.com/wishlist/index/add/product/47/form_key/RcvOwXViEG2hZdtk/" class="link-wishlist" data-id="47"><span>+</span>Add to Wishlist</a></li>
+                                                <li><a href="http://www.cmsjunkie.com/catalog/product_compare/add/product/47/uenc/aHR0cDovL3d3dy5jbXNqdW5raWUuY29tLw,,/form_key/RcvOwXViEG2hZdtk/" class="link-compare" data-id="47"><span>+</span>Add to Compare</a></li>
+                            </ul>
+
+            </div>
+
+        </li>
+        </ul>
+</div>
+ </div>
+<p></p>
+<p></p></div>                </div>
+            </div>
+	        <!-- footer BOF -->
+<div class="footer-container">
+    	
+	
+	 
+	<div id="home-page-products" class="home-page-products">
+        <div id="home-page-products">
+<div id="jbusienssdirectory-section">
+<div id="product-features" class="row clearfix">
+<div class="feature-wrapper">
+<div class="feature-container">
+<div class="feature-content">
+<div class="title-header">
+<h1><a href="http://www.cmsjunkie.com/j-business-directory">J-BusinessDirectory</a></h1>
+</div>
+<div class="col-content">
+<p>J-BusinessDirectory is a professional and reliable business directory. You can create now the professional business directory you've always dreamed of.</p>
+<ul>
+<li><strong>Full responsive design</strong></li>
+<li><strong>Anyone Can Do It!!! It&rsquo;s that SIMPLE</strong></li>
+<li><strong>Powerful Directory Features</strong></li>
+<li><strong>Build in Multilingual Support</strong></li>
+<li><strong>Front-End Administration</strong></li>
+<li><strong>Flexible, Powerful Pricing Plans</strong></li>
+<li><strong>Multiple attractive views</strong></li>
+<li><strong>SEO Friendly &amp; Rich Snipets</strong></li>
+<li><strong>Offers &amp; Events</strong></li>
+</ul>
+<button class="button button_white" onclick="window.location='http://www.cmsjunkie.com/j-business-directory'"><span><span>More details</span></span></button></div>
+</div>
+<div class="image"><iframe src="https://www.youtube.com/embed/Yn_iEOYIY5U?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" width="560" height="315"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+<div id="jhotelreservation-section">
+<div id="product-features" class="row clearfix">
+<div class="feature-wrapper">
+<div class="feature-container">
+<div class="image"><iframe width="560" height="315" src="https://www.youtube.com/embed/e4K-T0f4HEE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="feature-content right">
+<div class="title-header">
+<h1><a href="http://www.cmsjunkie.com/joomla_hotel">J-HotelReservation</a></h1>
+</div>
+<div class="col-content">
+<p>Tailored after professional hotel solutions we offer a complete reservation product that includes a flexible and easy way to set prices.</p>
+<ul>
+<li><strong>Create</strong> as many season variations as you please, enable/disable rooms for booking, .</li>
+<li><strong>Edit custom rates</strong> functionality allows you define any setting for a selected period of time.</li>
+<li><strong>Offers</strong> are also possible through J-HotelRervation. Don&rsquo;t wait for clients to come to you, create offers to get things going.</li>
+<li><strong>Discounts</strong> have been included in J-HotelRervation. Create discount based on your needs.</li>
+</ul>
+<button class="button button_white" onclick="window.location='http://www.cmsjunkie.com/joomla_hotel'"><span><span>More details</span></span></button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="jclassifieds-section">
+<div id="product-features" class="row clearfix">
+<div class="feature-wrapper">
+<div class="feature-container">
+<div class="feature-content">
+<div class="title-header">
+<h1><a href="http://www.cmsjunkie.com/classifieds-manager">J-ClassifiedsManager</a></h1>
+</div>
+<div class="col-content">
+<p>Create the professional classifieds website you've always wanted within minutes. The clean display combined with sought classifieds features rank J-ClassifiedsManager among the top, or so our customers say.</p>
+<ul>
+<li><strong>User friendly interface for customers (jquery based)</strong></li>
+<li><strong>Dynamic search filter</strong></li>
+<li><strong>Integrated search bar</strong></li>
+<li><strong>Ad management</strong></li>
+<li><strong>Categories on 3 levels</strong></li>
+<li><strong>Ad promoting</strong></li>
+<li><strong>Dynamic category attributes</strong></li>
+<li><strong>Integrated payment options</strong></li>
+</ul>
+<button class="button button_white" onclick="window.location='http://www.cmsjunkie.com/classifieds-manager'"><span><span>More details</span></span></button></div>
+</div>
+<div class="image"><a href="http://www.cmsjunkie.com/classifieds-manager"><img src="http://www.cmsjunkie.com/img/features/classifieds.png" alt="" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>    </div>
+		
+	<div class="footer-newsletter">
+        <div class="row clearfix">
+<div class="left">
+<h4>Newsletters Signup:</h4>
+</div>
+<form id="newsletter-validate-detail" action="https://www.cmsjunkie.com/newsletter/subscriber/new/" method="post">
+<div class="block-content">
+
+<div class="input-box"><input id="newsletter" class="input-text required-entry validate-email" title="Sign up for our newsletter" type="text" name="email" /></div>
+<div class="actions"><button class="button" title="Subscribe" type="submit"><span><span>Subscribe</span></span></button></div>
+</div>
+</form>
+<script type="text/javascript">// <![CDATA[
+    //&lt;![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]&gt;
+// ]]></script>
+</div>    </div>
+	
+    <div class="footer-banners">
+        <div class="row clearfix">
+<div style="float: left;">
+<h4>Connect with us:</h4>
+</div>
+<div class="block-content">
+<ul class="social">
+<li><a class="twitter" href="http://twitter.com/cmsjunkie" target="social"><span>Twitter</span></a></li>
+<li><a class="facebook" href="http://facebook.com/cmsjunkie" target="social"><span>Facebook</span></a></li>
+<li><a class="email" href="mailto:info@cmsjunkie.com"><span>Email</span></a></li>
+<li><a class="google" href="https://plus.google.com/+Cmsjunkie/posts" target="social"><span>Google</span></a></li>
+</ul>
+</div>
+<div class="gButton">
+<div class="g-plusone" data-size="medium" data-href="http://www.cmsjunkie.com">&nbsp;</div>
+</div>
+</div>    </div>
+	
+    <div class="footer-info">
+        <div class="row clearfix">
+            <div class="grid_3 information"><h4>Latest News</h4>
+<p>&nbsp;</p>
+<p><ul>
+	<li>
+		<a href="http://www.cmsjunkie.com/blog/joomla-clasifieds-manager-2-3-0-release/" >J-ClassifiedsManager - version 2.3.0 BETA released</a>
+	</li>	
+	<li>
+		<a href="http://www.cmsjunkie.com/blog/joomla-clasifieds-manager-2-2-1-release/" >J-ClassifiedsManager - version 2.2.1 RC (release candidate) released</a>
+	</li>	
+	<li>
+		<a href="http://www.cmsjunkie.com/blog/joomla-hotel-reservation-5-5-2-release/" >J-HotelReservation - version 5.5.2 stable</a>
+	</li>	
+	<li>
+		<a href="http://www.cmsjunkie.com/blog/joomla_business_directory_4-4-0_release/" >J-BusinessDirectory - version 4.4.0 BETA has been released</a>
+	</li>	
+	<li>
+		<a href="http://www.cmsjunkie.com/blog/joomla_business_directory_4-3-4_release/" >J-BusinessDirectory - version 4.3.4 STABLE has been released</a>
+	</li>	
+ 
+</ul>
+	</p></div>
+            <div class="grid_3">        <h4> From our forum</h4>
+         			<ul>
+					<li>
+				<a id="simple-forum-link-1131" href="http://www.cmsjunkie.com/forum/business-listing-mdule-not-showing-package-prices/?p=1">
+					business listing mdule not showing package prices				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1130" href="http://www.cmsjunkie.com/forum/how-to-remove-blank-place-holder-company-description-of-latest-business-modulei-managed-to-remove-the-text/?p=1">
+					how to remove blank place holder Company Description of Latest Business moduleI managed to remove the text				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1129" href="http://www.cmsjunkie.com/forum/jbusiness-search-module/?p=1">
+					Jbusiness Search Module				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1128" href="http://www.cmsjunkie.com/forum/j-mydirectory-template-remove-picture-from-latest-business-listing/?p=1">
+					J-MyDirectory template: remove picture from latest business listing				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1127" href="http://www.cmsjunkie.com/forum/not-possible-to-close-a-form-when-no-input---required-fields-necessary/?p=1">
+					Not possible to close a form when no input - required fields necessary!?				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1126" href="http://www.cmsjunkie.com/forum/automatic-switch-over-to-the-product-page-on-the-default-language/?p=1">
+					Automatic switch-over to the product page on the default language				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1125" href="http://www.cmsjunkie.com/forum/blank-screen-when-trying-to-make-any-changes-in-the-newly-installed-4.4/?p=1">
+					Blank screen when trying to make any changes in the newly installed 4.4				</a>
+			</li>
+					<li>
+				<a id="simple-forum-link-1124" href="http://www.cmsjunkie.com/forum/hidden-fields/?p=1">
+					Hidden fields?				</a>
+			</li>
+				</ul>
+		</div>
+            <div class="grid_3">
+                            <h4>Facebook</h4>
+                <div class="block-content">
+                <fb:fan profileid="cmsjunkie" stream="0" connections="8" logobar="0" height="260"
+                        css="http://www.cmsjunkie.com/skin/frontend/default/shopper/css/facebook.css?110"></fb:fan>
+                <div id="fb-root"></div>
+                <script type="text/javascript">
+                    window.fbAsyncInit = function() {
+                        FB.Event.subscribe('auth.statusChange', function(response) {
+                            if(response.status == 'connected') {
+                                runFbInitCriticalCode();
+                            }
+                        });
+                        FB.init({status: false, cookie: true, xfbml: true});
+                    };
+                    (function() {
+                        var e = document.createElement('script');
+                        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                        e.async = true;
+                        document.getElementById('fb-root').appendChild(e);
+                    }());
+                </script>
+                </div>
+                        </div>
+
+            <div class="grid_3">
+                            <h4>From Twitter</h4>
+                <div class="block-content">
+                <div class="twitterWidget" data-user="cmsjunkie">
+                    <div class="twitterContent">
+                        <ul class="twitterList">
+                            <li>Follow us on twitter</li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <script type="text/javascript">
+                    var el = {
+                            widget				: jQuery('.twitterWidget'),
+                            twitterList			: jQuery('.twitterWidget').find(".twitterList")
+                        },
+                        utils	= {
+                            username		: el.widget.data("user"),
+                            tweetNum		: parseInt(el.widget.data("num")) || 2,
+                            currentIndex	: 0,
+                            callback		: function(){},
+                            isReady			: false,
+                            height			: 0,                            
+							text_specify    : "You need to specify a username",
+                            text_error      : "There was an error connecting to your Twitter account",
+                            text_follow     : "Follow us",
+                            text_on_twitter : "on Twitter"
+                        }
+                    getTweets(el, utils);
+                </script>
+                        </div>
+
+
+        </div>
+    </div>
+        <footer class="row clearfix">
+		
+
+<div class="footer-columns">
+
+	<div class="col-3">
+		<h2>Joomla Templates</h2>
+		<ul>
+			<li><a href='http://www.cmsjunkie.com/joomla_business' alt='Joomla Business' title='Joomla Business'>Joomla Business</a></li><li><a href='http://www.cmsjunkie.com/joomla_hotel_templates' alt='Joomla Hotel Templates' title='Joomla Hotel Templates'>Joomla Hotel Templates</a></li><li><a href='http://www.cmsjunkie.com/joomla_design' alt='Joomla Design' title='Joomla Design'>Joomla Design</a></li><li><a href='http://www.cmsjunkie.com/joomla_restaurant' alt='Joomla Restaurant' title='Joomla Restaurant'>Joomla Restaurant</a></li><li><a href='http://www.cmsjunkie.com/joomla_travel' alt='Joomla Travel' title='Joomla Travel'>Joomla Travel</a></li><li><a href='http://www.cmsjunkie.com/joomla_corporate' alt='Joomla Corporate' title='Joomla Corporate'>Joomla Corporate</a></li><li><a href='http://www.cmsjunkie.com/free_joomla-templates' alt='Free Joomla Templates' title='Free Joomla Templates'>Free Joomla Templates</a></li><li><a href='http://www.cmsjunkie.com/joomla_art_photography' alt='Joomla Art & Photograhy' title='Joomla Art & Photograhy'>Joomla Art & Photograhy</a></li>		</ul>
+	</div>
+
+	<div class="col-3">
+		<h2>Joomla Extensions</h2>
+		<ul>
+			<li><a href="http://www.cmsjunkie.com/joomla/" alt="Joomla" title="Joomla">Joomla</a></li>
+			<li><a href="http://www.cmsjunkie.com/joomla_extensions/" alt="Joomla Extensions" title="Joomla Extensions">Joomla Extensions</a></li>
+			<li><a href='http://www.cmsjunkie.com/joomla-flash' alt='Joomla Flash' title='Joomla Flash'>Joomla Flash</a></li><li><a href='http://www.cmsjunkie.com/joomla_hotel' alt='Joomla Hotel' title='Joomla Hotel'>Joomla Hotel</a></li><li><a href='http://www.cmsjunkie.com/joomla_javascript' alt='Joomla Javascript' title='Joomla Javascript'>Joomla Javascript</a></li><li><a href='http://www.cmsjunkie.com/joomla_subscription' alt='Joomla Subscription' title='Joomla Subscription'>Joomla Subscription</a></li><li><a href='http://www.cmsjunkie.com/joomla_booking' alt='Joomla Booking' title='Joomla Booking'>Joomla Booking</a></li><li><a href='http://www.cmsjunkie.com/joomla_hotel_booking' alt='Joomla Hotel Booking' title='Joomla Hotel Booking'>Joomla Hotel Booking</a></li><li><a href='http://www.cmsjunkie.com/joomla-hotel-support-updates' alt='Joomla Hotel Support & Updates' title='Joomla Hotel Support & Updates'>Joomla Hotel Support & Updates</a></li><li><a href='http://www.cmsjunkie.com/joomla_directory' alt='Joomla Directory' title='Joomla Directory'>Joomla Directory</a></li><li><a href='http://www.cmsjunkie.com/joomla_business_directory' alt='Joomla Business Directory' title='Joomla Business Directory'>Joomla Business Directory</a></li><li><a href='http://www.cmsjunkie.com/joomla-cruise-reservation' alt='Joomla Cruise Reservation' title='Joomla Cruise Reservation'>Joomla Cruise Reservation</a></li><li><a href='http://www.cmsjunkie.com/joomla/joomla-extensions/joomla-voting' alt='Joomla Voting' title='Joomla Voting'>Joomla Voting</a></li><li><a href='http://www.cmsjunkie.com/joomla-classifieds' alt='Joomla Classifieds' title='Joomla Classifieds'>Joomla Classifieds</a></li>		</ul>
+	</div>
+
+	<div class="col-3">
+		<h2>Wordpress products</h2>
+		<ul>
+			<li><a href="http://www.cmsjunkie.com/wordpress/" alt="Wordpress" title="Wordpress">Wordpress</a></li>
+			<li><a href="http://www.cmsjunkie.com/wordpress-themes/" alt="Wordpress Themes" title="Wordpress Themes">Wordpress Themes</a></li>
+			<li><a href="http://www.cmsjunkie.com/wordpress-extensions/" alt="Wordpress Extensions" title="Wordpress Extenions">Wordpress Extensions</a></li>
+		</ul>
+	</div>
+
+	<div class="col-3">
+		<h2>Magento Products</h2>
+		<ul>
+			<li><a href="http://www.cmsjunkie.com/magento/" alt="Magento" title="Magento">Magento</a></li>
+			<li><a href="http://www.cmsjunkie.com/magento_themes/" alt="Magento Themes" title="Magento Themes">Magento Themes</a></li>
+		</ul>
+	</div>
+
+	<div class="col-3">
+		<h2>Links</h2>
+			</div>
+</div>        <div class="grid_6">
+            <address>CMSJunkie © 2009-2015</address>
+        </div>
+        <div class="grid_6">
+            <ul class="links">
+<li><a title="About Us" href="http://www.cmsjunkie.com/about-cmsjunkie-store/">About Us</a></li>
+<li class="separator">&nbsp;</li>
+<li><a title="Terms &amp; Conditions" href="http://www.cmsjunkie.com/terms_and_conditions/">Terms &amp; Conditions</a></li>
+<li class="separator">&nbsp;</li>
+<li><a title="Contact Us" href="http://www.cmsjunkie.com/contacts/">Contact Us</a></li>
+</ul>        </div>
+    </footer>
+</div>
+<!-- footer EOF -->        </div>
+        
+
+<script type="text/javascript">
+<!--
+jQuery(document).ready(
+    function (){
+        jQuery("a[rel^='prettyPhoto']").prettyPhoto({
+                        animation_speed:'fast',
+            
+                        slideshow:5000,
+            
+                        autoplay_slideshow: false,
+            
+                        opacity:0.80,
+            
+                        show_title:true,
+            
+                        allow_resize:true,
+            
+                        default_width:500,
+            
+                        default_height:500,
+            
+                        counter_separator_label:'/',
+            
+                        theme:'pp_default',
+            
+                        horizontal_padding:20,
+            
+                        hideflash:false,
+            
+                        wmode:'opaque',
+            
+                        autoplay:true,
+            
+                        modal:false,
+            
+                        deeplinking:true,
+            
+                        overlay_showcase:true,
+            
+                        keyboard_shortcuts:true,
+            
+                        social_tools:'',
+            
+            deeplinking: false,
+        });
+    }
+);
+-->
+</script>
+      <!-- Start of Zopim Live Chat Script -->
+      <script type="text/javascript">
+      document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?xWazg46CB5XvjARRW1WII9atstn9QIpI' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+      <!-- End of Zopim Live Chat Script -->
+      
+      <script type="text/javascript">$zopim.livechat.set({ language: 'en'      });
+$zopim.livechat.button.setPosition('br');
+$zopim.livechat.window.setTheme('plastic');
+$zopim.livechat.window.setColor('#ff4900');
+$zopim.livechat.bubble.setTitle('Questions?');
+$zopim.livechat.bubble.setText('Click here to chat with us!');
+$zopim.livechat.setGreetings({
+            'online': ['Click here to chat', 'Leave a question or comment and our agents will attend to you shortly =)'],
+            'offline': ['Leave a message', 'We are offline, but if you leave your message and contact details, we will get back to you =)'],
+            'away': ['Click here to chat', 'If you leave a question or comment, our agents will be notified and will attend to you shortly =)']})
+      </script>
+       
+    </div>
+</div>
+</body>
+</html>

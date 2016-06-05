@@ -1,0 +1,381 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" src="templates/ordasofttemplate-basetemplate/javascript/jquery.js"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+	
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,600,900,500,400,100,800,200,700' rel='stylesheet' type='text/css'>
+
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="BookLibrary Manager " />
+  <meta name="description" content="BookLibrary Manager " />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>BookLibrary Manager </title>
+  <link href="component/booklibrary/0/show_search?Itemid=0" rel="canonical" />
+  <link href="templates/ordasofttemplate-basetemplate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="component/search/index.html?task=show_search&amp;catid=0&amp;format=opensearch" rel="search" title="Search Applied Mechanics - IIT Delhi" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="components/com_booklibrary/includes/booklibrary.css" type="text/css" />
+  <link rel="stylesheet" href="templates/ordasofttemplate-basetemplate/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="templates/ordasofttemplate-basetemplate/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="templates/ordasofttemplate-basetemplate/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <script src="templates/ordasofttemplate-basetemplate/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="templates/ordasofttemplate-basetemplate/javascript/custom.js" type="text/javascript"></script>
+  <script src="media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://localhost/am2/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="media/system/js/core.js" type="text/javascript"></script>
+  <script src="modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+  <script type="text/javascript">
+	function trim(string){	return string.replace(/(^\s+)|(\s+$)/g, '');	} 
+	function searchsubmit() 
+	{ 
+		var form = document.com_booklibsearchForm; 
+		var flag = true; 
+// 				var t_lprice = trim(document.getElementById('lprice').value); 
+// 				var t_uprice = trim(document.getElementById('uprice').value); 
+// 				var t_ldate = trim(document.getElementById('ldate').value); 
+// 				var t_udate = trim(document.getElementById('udate').value); 
+// 				if(!((t_lprice!='' && t_uprice!='') || (t_uprice == t_lprice))) 
+// 				{ 
+// 					alert('If you want search by price - interval must be set') 
+// 					flag=false; 
+// 				} 
+// 				if(!((t_ldate!='' && t_udate!='') || (t_ldate == t_udate))) 
+// 				{ 
+// 					alert('If you want search by release date - interval must be set') 
+// 					flag=false; 
+// 				} 
+				if(flag) 
+					form.submit(); 
+			} 
+
+  </script>
+
+
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie7.css" /> <![endif]-->
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie8.css" /> <![endif]-->
+<!--[if IE 9]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie9.css" /> <![endif]-->
+</head>
+
+<body>
+	<div class="header">
+		<div id="header" class="container">
+
+			<div  class="row">
+												</div>
+
+			    				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+								<div class="moduletable topmenu">
+					<ul class="nav navbar-nav menu">
+<li class="item-135"><a href="about-us" >About Us</a></li><li class="item-137"><a href="2013-09-02-14-49-57" >    Contacts</a></li></ul>
+		</div>
+	
+					</div>
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+								<div class="moduletable searchbar">
+					<div class="search searchbar">
+	<form action="http://iitian.me/am/component/booklibrary/0" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search!</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="22" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="148" />
+	</form>
+</div>
+		</div>
+	
+					</div>
+				</div>
+			    
+			    <div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					    <div id="logo">
+						  <a href="index.php">
+						      <img style="width:302px; height:60px; " src="images/os_template_logo.png" alt="Logo" />
+						  </a>
+					    </div>
+					</div>
+								    <div class="main_menu">
+						<nav id="site-navigation-main" class="navbar" role="navigation">
+							<div class="navbar-header">
+						      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+						        <i class="fa fa-bars"></i>
+						      </button>
+						    </div>
+							<div id="main-navbar-collapse" class="collapse navbar-collapse">
+										<div class="moduletable_menu">
+					<ul class="nav navbar-nav menu">
+<li class="item-101 current active"><a href="index.html" >Home</a></li><li class="item-205 deeper parent"><a href="people" >People</a><ul class="nav-child unstyled small"><li class="item-206"><a href="people/faculty" >Faculty</a></li><li class="item-207"><a href="people/staff" >Staff</a></li><li class="item-208"><a href="people/departmental-assignments" >Departmental Assignments</a></li><li class="item-209"><a href="people/visitors" >Visitors</a></li><li class="item-241 deeper parent"><a href="people/students" >Students</a><ul class="nav-child unstyled small"><li class="item-245"><a href="people/students/submit-profile" >Submit Profile</a></li></ul></li></ul></li><li class="item-117"><a href="academics" >Academics</a></li><li class="item-102 deeper parent"><a href="research" >Research</a><ul class="nav-child unstyled small"><li class="item-103"><a href="research/solid-mechanics" >Solid Mechanics</a></li><li class="item-200"><a href="research/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-201"><a href="research/material-science" >Material Science</a></li><li class="item-202"><a href="research/design-engineering" >Design Engineering</a></li><li class="item-203"><a href="research/honours-and-awards" >Honours and Awards</a></li></ul></li><li class="item-147 deeper parent"><a href="library/147/all_categories" >Library</a><ul class="nav-child unstyled small"><li class="item-194"><a href="library/books/194/all_categories" >Books</a></li><li class="item-195"><a href="library/equipments" >Equipments</a></li></ul></li><li class="item-192"><a href="events" >Events</a></li><li class="item-146 deeper parent"><a href="publications" >Publications</a><ul class="nav-child unstyled small"><li class="item-196"><a href="publications/solid-mechanics" >Solid Mechanics</a></li><li class="item-197"><a href="publications/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-198"><a href="publications/material-science" >Material Science</a></li></ul></li><li class="item-110"><a href="facilities" >Facilities</a></li><li class="item-193"><a href="placement" >Placement</a></li></ul>
+		</div>
+	
+							</div>
+						</nav><!-- #site-navigation -->
+				    </div>
+							    </div>
+			</div> <!--id header-->
+		 </div> <!--class header-->
+
+		<div id="wrapper" class="container">
+		    			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="moduletable">
+					
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li class="active"><span>Home</span></li></ul>
+		</div>
+	
+					
+				</div>
+			</div>
+		    		</div>
+		
+		<div class="slideshow">
+			<div id="header" class="container">
+							</div>
+		</div>
+		
+	<div class="department">
+		<div id="header" class="container">
+		 			</div>
+	</div>
+	<div class="feature">
+		<div id="wrapper" class="container">
+		    
+		    
+			<div id="globalContent">
+
+				
+			    <div class="row">
+					
+						<div id="contentBox" class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+							<div><div id="system-message-container">
+	</div>
+</div>
+							<div><div class="componentheading">
+    Search Books</div><table  class="bl_bl_search_books_table_with_logo basictable" border="0" cellpadding="4" cellspacing="0" width="100%">
+    <tr>				
+                <td width="100%">
+            Search books        </td>
+                    <td>
+                <img src="components/com_booklibrary/images/book.png" align="right"  alt = "?"/>
+            </td>
+                </tr>
+</table>
+
+
+
+
+
+
+
+<table width="100%" cellpadding="4" cellspacing="0" border="0" align="center" class="contentpane">
+
+    
+    <form id="adminForm" action="http://iitian.me/am/component/booklibrary/0/search?Itemid=0" method="get" name="com_booklibsearchForm">
+        <table  class="bl_advanced_search_table my_table basictable" border="0" cellpadding="4" cellspacing="0" width="100%">
+            <tr>
+                <td align="center" colspan="2" >
+                    Search Keywords&nbsp;:
+                    <input class="inputbox" type="text" name="searchtext" size="20" maxlength="20"/>
+                </td>
+            </tr>
+
+                        <!--tr>
+              <td colspan="2" align="center">
+                <table>
+                  <tr>
+                    <td>Price between:&nbsp;</td>
+                    <td nowrap>
+            From                          <input type="text" id="lprice" name="lprice" value="" size="6"/> 
+            To 
+                          <input type="text" id="uprice" name="uprice" value="" size="6"/>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center">
+                  <table>
+                    <tr>
+                      <td>Released between:&nbsp;</td>
+                      <td nowrap>
+            From                            <input type="text" name="ldate" id="ldate" value="" size="9"/>
+                            <input type="reset" style="font-size:small;width:16px;height:20px;text-align:center;"
+                              value="..." onClick="return showCalendar('ldate', 'y-mm-dd');" />
+            To                            <input type="text" name="udate" id="udate" value="" size="9"/>
+                            <input type="reset" style="font-size:small;width:16px;height:20px;text-align:center;"
+                              value="..." onClick="return showCalendar('udate', 'y-mm-dd');" />
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr-->
+
+            			
+
+            <tr>
+                <td style="text-align:right;display:inline-block;width:116px;">Search in:</td>
+                <td style="text-align:left;display:inline-block;width:70px;height:21px;padding-left:0px;">
+                    Title:
+                    <input type="checkbox" name="title" checked="checked" />&nbsp;&nbsp;
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;display:inline-block;width:106px;"></td>
+                <td style="text-align:right;display:inline-block;width:75px;height:21px;padding-left:0px;">
+                    ISBN:
+                    <input type="checkbox" name="isbn" checked="checked" />&nbsp;&nbsp;
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;display:inline-block;width:118px;"></td>	
+                <td style="text-align:right;display:inline-block;width:75px;height:21px;padding-left:0px;">
+                    Authors:
+                    <input type="checkbox" name="author" checked="checked" />&nbsp;&nbsp;
+                </td>	
+                <td></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;display:inline-block;width:116px;"></td>
+                <td style="text-align:right;display:inline-block;width:100px;height:21px;padding-left:0px;">			  
+                    Description:
+                    <input type="checkbox" name="description" checked="checked" />&nbsp;&nbsp;
+                    <div style="visibility:hidden;">
+                        :
+                        <input type="checkbox" name="publisher" checked="checked"/> </div>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;display:inline-block;width:114px;">
+                    Price from:
+                </td>	
+                <td style="text-align:right;display:inline-block;width:116px;padding-left:0px;">
+                    <input type="text" name="pricefrom" size="6"/>
+                </td>
+                <td></td>
+            </tr>
+            <tr>		  
+                <td style="text-align:right;display:inline-block;width:114px;">
+                    to:
+                </td>
+                <td style="text-align:right;display:inline-block;width:116px;padding-left:0px;">
+                    <input type="text" name="priceto" size="6"/>
+                </td>
+                <td></td>
+            </tr>
+            <tr>      
+                <td style="text-align:right;display:inline-block;width:114px;">
+                    Category:
+                </td>
+                <td style="text-align:right;display:inline-block;width:114px;padding-left:2px;">
+                    <select id="catid" name="catid" class="inputbox" size="1">
+	<option value="0">Search category</option>
+	<option value="46">Solid Mechanics</option>
+	<option value="47">Fluid Mechanics</option>
+	<option value="48">Material Science</option>
+</select>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;display:inline-block;width:114px;"></td>
+                <td style="text-align:right;display:inline-block;width:114px;padding-left:3px;">
+                    <div class="my_btn my_btn-primary bl_advanced_search">
+                        <input type="button" onclick="searchsubmit();" 
+                               value="Search" class="button bl_advanced_search" />
+                    </div>	
+                    <input type="hidden" name="option" value="com_booklibrary">
+                    <input type="hidden" name="task" value="search">
+                    <input type="hidden" name="Itemid" value="0">
+                </td> 
+                <td></td>
+            </tr>
+        </table>      
+        <br />       
+            </form>
+    </div>
+							
+						</div>
+
+											<div class="sidebar-right col-lg-3 col-md-3 col-sm-3 col-xs-12">
+									<div class="moduletable happenings">
+					<h3>Latest Updates</h3>
+						<div class="nspMain  happenings" id="nsp-nsp-108" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">		
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages0">
+										</div>
+				</div>
+			</div>
+						<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages3">
+																				<ul class="nspList active nspCol3">
+														
+							<li class="even"><h4><a href="latest-updates/44-nomination-to-bog" title="Nomination to BOG" target="_self">Nomination to BOG</a></h4><p>[ July, 2014]
+Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of th&hellip;</p></li>							
+																											
+							<li class="odd"><h4><a href="latest-updates/43-prof-santosh-kapuria-selected-insa-fellow" title="Prof Santosh Kapuria selected INSA Fellow" target="_self">Prof Santosh Kapuria selected INSA Fellow</a></h4><p>[ October, 2014]
+Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected &hellip;</p></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+		</div>
+	
+						</div>
+								    </div>
+
+				
+			</div> <!--globalContent-->
+
+		    		</div> <!-- wrapper --->
+		</div> <!-- feature --->
+		<div id="footer">
+		    <div class="container">
+				
+				
+				<div class="content_footer row">
+					<div class="copyrights col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<p>Copyright © Applied Mechanics - IIT Delhi. All Rights Reserved.</p>					</div>
+					<div class="soc_icons_box col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<ul class="soc_icons" >
+													</ul>
+					</div>
+				</div> <!--content_footer-->
+
+						    </div> 
+		</div> <!--id footer-->
+	</body>
+<script type="text/javascript"></script>
+</html>

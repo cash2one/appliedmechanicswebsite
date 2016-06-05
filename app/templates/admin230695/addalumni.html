@@ -1,0 +1,11 @@
+{% include "header.html" %}
+{% from "_formhelpers.html" import render_field %}
+<center><form method=post action="/admin230695/addbook">
+  <dl>
+    {{ render_field(form.name) }}
+    {{ render_field(form.surname) }}
+    {{ render_field(form.graduationyear) }}
+  </dl>
+  <p><input type=submit value="Add Alumni">
+</form></center>
+{% include "footer.html" %}

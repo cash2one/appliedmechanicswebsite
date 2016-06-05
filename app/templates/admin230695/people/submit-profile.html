@@ -1,0 +1,16 @@
+{% include "header.html" %}
+<center><form method=post action="submit-profile">
+  <dl>
+    {{ render_field(form.name) }}
+    {{ render_field(form.surname) }}
+    {{ render_field(form.advisor) }}
+    {{ render_field(form.email) }}
+    {{ render_field(form.currentOrganisation) }}
+    {{ render_field(form.phone) }}
+    {{ render_field(form.program) }}
+    {{ render_field(form.webAddress) }}
+    {{ render_field(form.graduationyear) }}
+  </dl>
+  <p><input type=submit value="Submit Profile">
+</form></center>
+{% include "footer.html" %}

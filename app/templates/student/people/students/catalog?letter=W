@@ -1,0 +1,735 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" src="../../templates/ordasofttemplate-basetemplate/javascript/jquery.js"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+	
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,600,900,500,400,100,800,200,700' rel='stylesheet' type='text/css'>
+
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Catalog | Applied Mechanics - IIT Delhi</title>
+  <link href="catalog?letter=W" rel="canonical" />
+  <link href="../../templates/ordasofttemplate-basetemplate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="../../component/search/index.html?letter=W&amp;Itemid=241&amp;format=opensearch" rel="search" title="Search Applied Mechanics - IIT Delhi" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="../../components/com_jbusinessdirectory/assets/css/common.css" type="text/css" />
+  <link rel="stylesheet" href="../../administrator/components/com_jbusinessdirectory/assets/css/forms.css" type="text/css" />
+  <link rel="stylesheet" href="../../components/com_jbusinessdirectory/assets/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/ordasofttemplate-basetemplate/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/ordasofttemplate-basetemplate/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="../../templates/ordasofttemplate-basetemplate/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="../../modules/mod_news_pro_gk5/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="../../modules/mod_jbusinessdirectory/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="../../components/com_jbusinessdirectory/assets/css/jquery-ui.css" type="text/css" />
+  <script src="../../media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://localhost/am2/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="../../media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="../../media/system/js/core.js" type="text/javascript"></script>
+  <script src="../../components/com_jbusinessdirectory/assets/js/jquery.raty.min.js" type="text/javascript"></script>
+  <script src="../../components/com_jbusinessdirectory/assets/js/jquery.blockUI.js" type="text/javascript"></script>
+  <script src="../../components/com_jbusinessdirectory/assets/js/common.js" type="text/javascript"></script>
+  <script src="../../administrator/components/com_jbusinessdirectory/assets/js/utils.js" type="text/javascript"></script>
+  <script src="../../components/com_jbusinessdirectory/assets/js/jquery.isotope.min.js" type="text/javascript"></script>
+  <script src="../../components/com_jbusinessdirectory/assets/js/isotope.init.js" type="text/javascript"></script>
+  <script src="../../templates/ordasofttemplate-basetemplate/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="../../templates/ordasofttemplate-basetemplate/javascript/custom.js" type="text/javascript"></script>
+  <script src="../../modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+  <script src="../../components/com_jbusinessdirectory/assets/js/jquery-ui.js" type="text/javascript"></script>
+  <script src="../../modules/mod_jbusinessdirectory/assets/js/script.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		var baseUrl="http://iitian.me/am/index.php?option=com_jbusinessdirectory";
+		var imageRepo="http://iitian.me/am/administrator/components/com_jbusinessdirectory";
+		var imageBaseUrl="http://iitian.me/am/media/com_jbusinessdirectory/pictures";		
+		window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","./",true);r.send(null)}},840000);
+  </script>
+
+
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie7.css" /> <![endif]-->
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie8.css" /> <![endif]-->
+<!--[if IE 9]> <link type="text/css" rel="stylesheet" href="/am/templates/ordasofttemplate-basetemplate/css/style_ie9.css" /> <![endif]-->
+</head>
+
+<body>
+	<div class="header">
+		<div id="header" class="container">
+
+			<div  class="row">
+												</div>
+
+			    				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+								<div class="moduletable topmenu">
+					<ul class="nav navbar-nav menu">
+<li class="item-135"><a href="../../about-us" >About Us</a></li><li class="item-137"><a href="../../2013-09-02-14-49-57" >    Contacts</a></li></ul>
+		</div>
+	
+					</div>
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+								<div class="moduletable searchbar">
+					<div class="search searchbar">
+	<form action="../students" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search!</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="22" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="148" />
+	</form>
+</div>
+		</div>
+	
+					</div>
+				</div>
+			    
+			    <div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					    <div id="logo">
+						  <a href="../../index.php">
+						      <img style="width:302px; height:60px; " src="../../images/os_template_logo.png" alt="Logo" />
+						  </a>
+					    </div>
+					</div>
+								    <div class="main_menu">
+						<nav id="site-navigation-main" class="navbar" role="navigation">
+							<div class="navbar-header">
+						      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+						        <i class="fa fa-bars"></i>
+						      </button>
+						    </div>
+							<div id="main-navbar-collapse" class="collapse navbar-collapse">
+										<div class="moduletable_menu">
+					<ul class="nav navbar-nav menu">
+<li class="item-101"><a href="../../index.html" >Home</a></li><li class="item-205 active deeper parent"><a href="../../people" >People</a><ul class="nav-child unstyled small"><li class="item-206"><a href="../faculty" >Faculty</a></li><li class="item-207"><a href="../staff" >Staff</a></li><li class="item-208"><a href="../departmental-assignments" >Departmental Assignments</a></li><li class="item-209"><a href="../visitors" >Visitors</a></li><li class="item-241 current active deeper parent"><a href="../students" >Students</a><ul class="nav-child unstyled small"><li class="item-245"><a href="submit-profile" >Submit Profile</a></li></ul></li></ul></li><li class="item-117"><a href="../../academics" >Academics</a></li><li class="item-102 deeper parent"><a href="../../research" >Research</a><ul class="nav-child unstyled small"><li class="item-103"><a href="../../research/solid-mechanics" >Solid Mechanics</a></li><li class="item-200"><a href="../../research/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-201"><a href="../../research/material-science" >Material Science</a></li><li class="item-202"><a href="../../research/design-engineering" >Design Engineering</a></li><li class="item-203"><a href="../../research/honours-and-awards" >Honours and Awards</a></li></ul></li><li class="item-147 deeper parent"><a href="../../library/147/all_categories" >Library</a><ul class="nav-child unstyled small"><li class="item-194"><a href="../../library/books/194/all_categories" >Books</a></li><li class="item-195"><a href="../../library/equipments" >Equipments</a></li></ul></li><li class="item-192"><a href="../../events" >Events</a></li><li class="item-146 deeper parent"><a href="../../publications" >Publications</a><ul class="nav-child unstyled small"><li class="item-196"><a href="../../publications/solid-mechanics" >Solid Mechanics</a></li><li class="item-197"><a href="../../publications/fluid-mechanics" >Fluid Mechanics</a></li><li class="item-198"><a href="../../publications/material-science" >Material Science</a></li></ul></li><li class="item-110"><a href="../../facilities" >Facilities</a></li><li class="item-193"><a href="../../placement" >Placement</a></li></ul>
+		</div>
+	
+							</div>
+						</nav><!-- #site-navigation -->
+				    </div>
+							    </div>
+			</div> <!--id header-->
+		 </div> <!--class header-->
+
+		<div id="wrapper" class="container">
+		    			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="moduletable">
+					
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li><a href="../../index.html" class="pathway">Home</a><span class="divider"><img src="../../media/system/images/arrow.png" alt="" /></span></li><li><a href="../../people" class="pathway">People</a><span class="divider"><img src="../../media/system/images/arrow.png" alt="" /></span></li><li class="active"><span>Students</span></li></ul>
+		</div>
+	
+					
+				</div>
+			</div>
+		    		</div>
+		
+		<div class="slideshow">
+			<div id="header" class="container">
+							</div>
+		</div>
+		
+	<div class="department">
+		<div id="header" class="container">
+		 			</div>
+	</div>
+	<div class="feature">
+		<div id="wrapper" class="container">
+		    				<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					    		<div class="moduletable">
+					<h3>Filter</h3>
+					<div id="companies-search" class="business-directory">
+	<!-- strong id="current-search">Find Business</strong-->
+	
+	<div id="searchform" class="ui-tabs horizontal">
+									
+									
+			<form action="../students" method="post" name="keywordSearch" id="keywordSearch" onsubmit="return checkSearch()">
+				<input type='hidden' name='task' value='searchCompaniesByName'>
+				<input type='hidden' name='controller' value='search'>
+				<input type='hidden' name='view' value='search'>
+				<input type='hidden' name='radius' value='0'>
+				<input type='hidden' name='preserve' value='1'>
+				
+				<div class="form-container">
+											<div class="form-field">
+							<span class="label">
+								<input class="search-field" type="text" placeholder="Name" name="searchkeyword" id="searchkeyword" value="" />
+							</span>
+						</div>
+																				<div class="form-field">
+						<span class="label">
+							<select name="categorySearch" id="categories">
+								<option value="0">Professors/Guides</option>
+																	<option value="75"  >Prof Anupam Dewan</option>
+																										<option value="76"  >Prof. Puneet Mahajan</option>
+																										<option value="74"  >Prof. R.K.Mittal</option>
+																								</select>
+						</span>
+					</div>
+										
+										<div class="form-field">
+						<span class="label">
+							<select name="typeSearch" id="typeSearch">
+								<option value="0">Choose Student Types</option>
+																	<option value="1"  >Alumni</option>
+																	<option value="10"  >Students (M.Tech Design)</option>
+																	<option value="11"  >Students (M.Tech Mechanics)</option>
+																	<option value="9"  >Students (PhD)</option>
+															</select>
+						</span>
+					</div>
+										
+										
+										
+										
+										<div class="form-field">
+						<span class="label">
+							<select name="countrySearch" id="countrySearch">
+								<option value="0">All countries</option>
+																	<option value="102"  >India</option>
+																
+							</select>
+						</span>
+					</div>
+									</div>
+				
+				<button type="submit" class="ui-dir-button-green search-dir-button">
+					<span class="ui-button-text">Search</span>
+				</button>
+				
+				<a  style="display:none" id="categories-link" href="categories?controller=categories&amp;task=displaycategories">Category List</a>
+			</form>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+<script>
+
+function checkSearch(){ 
+
+	
+	
+
+	
+	
+		
+	return true;
+}
+
+jQuery(document).ready(function(){
+	
+    jQuery("#searchkeyword").autocomplete({
+		source: "/am/people/students?task=categories.getCategories",
+		minLength: 2,
+		select: function( event, ui ) {
+			jQuery(this).val(ui.item.label);
+			return false;
+		}
+	});
+});
+
+</script>
+
+
+
+		</div>
+	
+					    
+					</div>
+				</div>
+		    
+		    
+			<div id="globalContent">
+
+				
+			    <div class="row">
+					
+						<div id="contentBox" class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+							<div><div id="system-message-container">
+	</div>
+</div>
+							<div>
+<div id="search-results" class="search-results search-results-full">
+			<div id="search-details">
+			<div class="search-toggles">
+			
+				<p class="view-mode">
+					<label>View</label>
+					<a id="grid-view-link" class="grid" title="Grid" href="javascript:showGrid()">Grid</a>
+					<a id="list-view-link" class="list active" title="List" href="javascript:showList()">List</a>
+				</p>
+				
+				
+				<p class="view-mode">
+					<a id="map-link" class="map" title="Grid" href="javascript:showMap(true)">Show Map</a>
+				</p>
+				
+				<div class="clear"></div>
+			</div>
+			
+			<span class="search-keyword">
+				Catalog			</span>	
+		</div>
+	
+	
+	<div id="companies-map-container" style="display:none">
+		 <script>
+      function initialize() {
+        var mapOptions = {
+          zoom: 6,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+
+      var mapdiv = document.getElementById("companies-map");
+  	  mapdiv.style.width = '100%';
+  	  mapdiv.style.height = '450px';
+  	  
+      var map = new google.maps.Map(mapdiv, mapOptions);
+  		 
+      setMarkers(map, companies);
+      }
+
+      /**
+       * Data for the markers consisting of a name, a LatLng and a zIndex for
+       * the order in which these markers should display on top of each
+       * other.
+       */
+      var companies = [
+             	
+      ];
+
+      function setMarkers(map, locations) {
+        // Add markers to the map
+
+        // Marker sizes are expressed as a Size of X,Y
+        // where the origin of the image (0,0) is located
+        // in the top left of the image.
+
+        // Origins, anchor positions and coordinates of the marker
+        // increase in the X direction to the right and in
+        // the Y direction down.
+        
+ 
+		var bounds = new google.maps.LatLngBounds();
+        
+         for (var i = 0; i < locations.length; i++) {
+	          var company = locations[i];
+
+		      var pinColor = "0071AF";
+	          var pinImage = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld="+(company[5])+"|" + pinColor+"|FFFFFF",
+	              new google.maps.Size(23, 32),
+	              new google.maps.Point(0,0),
+	              new google.maps.Point(10, 34));
+	          var pinShadow = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_shadow",
+	              new google.maps.Size(40, 37),
+	              new google.maps.Point(0, 0),
+	              new google.maps.Point(12, 35));
+
+
+		      var shape = {
+	              coord: [1, 1, 1, 20, 18, 20, 18 , 1],
+	              type: 'poly'
+	          };
+
+
+		      if(company[6] != '0'){
+		      		pinImage = new google.maps.MarkerImage(company[6],
+		              // This marker is 20 pixels wide by 32 pixels tall.
+		              new google.maps.Size(32, 32),
+		              // The origin for this image is 0,0.
+		              new google.maps.Point(0,0),
+		              // The anchor for this image is the base of the flagpole at 0,32.
+		              new google.maps.Point(0, 32));
+		      }
+		      
+	          var myLatLng = new google.maps.LatLng(company[1], company[2]);
+	          var marker = new google.maps.Marker({
+	              position: myLatLng,
+	              map: map,
+	              icon: pinImage,
+	              shadow: pinShadow,
+	              shape: shape,
+	              title: company[0],
+	              zIndex: company[3]
+	          });
+			 
+	          var contentBody = company[4];
+	          var infowindow = new google.maps.InfoWindow({
+		          content: contentBody
+		      });
+	      	 
+	          google.maps.event.addListener(marker, 'click', function(contentBody) {
+	        	    return function(){
+	        	        infowindow.setContent(contentBody);//set the content
+	        	        infowindow.open(map,this);
+	        	    }
+	        	}(contentBody));
+	        		        	
+	          bounds.extend(myLatLng);
+      	  }
+
+
+                  map.fitBounds(bounds);
+
+         var listener = google.maps.event.addListener(map, "idle", function() { 
+	   		  if (map.getZoom() > 16) map.setZoom(16); 
+	   		  google.maps.event.removeListener(listener); 
+  		});
+    	  
+      }
+
+      function loadMapScript() {
+          if(!initialized){
+	    	  var script = document.createElement("script");
+	    	  script.type = "text/javascript";
+	    	  script.src = "http://maps.googleapis.com/maps/api/js?sensor=false&callback=initialize";
+	    	  document.body.appendChild(script);
+	    	  initialized = true;
+          }
+    	}
+
+  		var initialized = false;  
+    </script>
+
+	
+<div id="companies-map" style="position: relative;">	
+</div>
+		
+
+	</div>
+
+	<div class="catalog-letters"> 
+	<div class="result-counter">
+No record found</div>
+			
+					 <a href="catalog?letter=A">
+			 			 		<span class="no-class">A </span>
+			 </a> 
+					 <a href="catalog?letter=B">
+			 			 		<span class="no-class">B </span>
+			 </a> 
+					 <a href="catalog?letter=C">
+			 			 		<span class="no-class">C </span>
+			 </a> 
+					 <a href="catalog?letter=D">
+			 			 		<span class="no-class">D </span>
+			 </a> 
+					 <a href="catalog?letter=E">
+			 			 		<span class="no-class">E </span>
+			 </a> 
+					 <a href="catalog?letter=F">
+			 			 		<span class="no-class">F </span>
+			 </a> 
+					 <a href="catalog?letter=G">
+			 			 		<span class="no-class">G </span>
+			 </a> 
+					 <a href="catalog?letter=H">
+			 			 		<span class="no-class">H </span>
+			 </a> 
+					 <a href="catalog?letter=I">
+			 			 		<span class="no-class">I </span>
+			 </a> 
+					 <a href="catalog?letter=J">
+			 			 		<span class="no-class">J </span>
+			 </a> 
+					 <a href="catalog?letter=K">
+			 			 		<span class="no-class">K </span>
+			 </a> 
+					 <a href="catalog?letter=L">
+			 			 		<span class="no-class">L </span>
+			 </a> 
+					 <a href="catalog?letter=M">
+			 			 		<span class="no-class">M </span>
+			 </a> 
+					 <a href="catalog?letter=N">
+			 			 		<span class="no-class">N </span>
+			 </a> 
+					 <a href="catalog?letter=O">
+			 			 		<span class="no-class">O </span>
+			 </a> 
+					 <a href="catalog?letter=P">
+			 			 		<span class="no-class">P </span>
+			 </a> 
+					 <a href="catalog?letter=Q">
+			 			 		<span class="no-class">Q </span>
+			 </a> 
+					 <a href="catalog?letter=R">
+			 			 		<span class="no-class used-letter">R </span>
+			 </a> 
+					 <a href="catalog?letter=S">
+			 			 		<span class="no-class">S </span>
+			 </a> 
+					 <a href="catalog?letter=T">
+			 			 		<span class="no-class">T </span>
+			 </a> 
+					 <a href="catalog?letter=U">
+			 			 		<span class="no-class">U </span>
+			 </a> 
+					 <a href="catalog?letter=V">
+			 			 		<span class="no-class used-letter">V </span>
+			 </a> 
+					 <a href="catalog?letter=W">
+			 			 		<span class="letter-selected ">W </span>
+			 </a> 
+					 <a href="catalog?letter=X">
+			 			 		<span class="no-class">X </span>
+			 </a> 
+					 <a href="catalog?letter=Y">
+			 			 		<span class="no-class">Y </span>
+			 </a> 
+					 <a href="catalog?letter=Z">
+			 			 		<span class="no-class">Z </span>
+			 </a> 
+			</div>
+	
+
+	
+<!-- layout -->
+<div id="layout" class="pagewidth clearfix grid4" >
+
+<div id="grid-content">
+	<div id="loops-wrapper" class="loops-wrapper infinite-scrolling AutoWidthElement">
+
+		
+	 <div class="clear"></div>
+	</div>
+</div>
+</div>	
+
+	
+
+<div id="results-container" style="display: none" class="search-style-1">
+
+</div>	
+	<div class="pagination" style="display:none">
+		<form action="../students" method="post" name="adminForm" id="adminForm"  >
+			
+			<input type='hidden' name='task' value='searchCompaniesByName'/>
+			<input type='hidden' name='controller' value='catalog' />
+			<input type='hidden' name='view' value='catalog' />
+			<input type='hidden' name='letter' value='W' />
+			
+			
+<div class="pagination pagination-toolbar clearfix" style="text-align: center;">
+
+			<div class="limit pull-right">
+			Display #<select id="limit" name="limit" class="inputbox input-mini" size="1" onchange="this.form.submit()">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20" selected="selected">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+	<option value="100">100</option>
+	<option value="0">All</option>
+</select>
+		</div>
+	
+	
+			<input type="hidden" name="limitstart" value="0" />
+	
+</div>
+		</form>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<script>
+window.onload = function()	{
+	jQuery('.rating-average').raty({
+		  half:       true,
+		  precision:  false,
+		  size:       24,
+		  starHalf:   'star-half.png',
+		  starOff:    'star-off.png',
+		  starOn:     'star-on.png',
+		 
+		  start:   	  function() { return jQuery(this).attr('title')},
+		  path:		  'http://iitian.me/am/components/com_jbusinessdirectory/assets/images/',
+		  click: function(score, evt) {
+			  			  	jQuery(this).raty('start',jQuery(this).attr('title'));
+			  	jQuery(this).parent().parent().find(".rating-awareness").show();
+			  		  }	
+		});
+
+	jQuery('.button-toggle').click(function() {  
+		 if(!jQuery(this).hasClass("active")) {       
+            jQuery(this).addClass('active');
+        }
+		jQuery('.button-toggle').not(this).removeClass('active'); // remove buttonactive from the others
+		
+	});
+
+	
+			showGrid();
+	};
+
+function showMap(display){
+	jQuery("#map-link").toggleClass("active");
+
+	if(jQuery("#map-link").hasClass("active")){
+		jQuery("#companies-map-container").show();
+		jQuery("#map-link").html("Hide Map");
+		loadMapScript();
+	}else{
+		jQuery("#map-link").html("Show Map");
+		jQuery("#companies-map-container").hide();
+	}
+}
+
+function showList(){
+	jQuery("#results-container").show();
+	jQuery("#layout").hide();
+
+	jQuery("#grid-view-link").removeClass("active");
+	jQuery("#list-view-link").addClass("active");
+}
+
+function showGrid(){
+	jQuery("#results-container").hide();
+	jQuery("#layout").show();
+	jQuery(window).resize();
+	
+	jQuery("#grid-view-link").addClass("active");
+	jQuery("#list-view-link").removeClass("active");
+}
+
+</script></div>
+							
+						</div>
+
+											<div class="sidebar-right col-lg-3 col-md-3 col-sm-3 col-xs-12">
+									<div class="moduletable happenings">
+					<h3>Latest Updates</h3>
+						<div class="nspMain  happenings" id="nsp-nsp-108" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">		
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages0">
+										</div>
+				</div>
+			</div>
+						<div class="nspLinksWrap bottom" style="width:99.9%;">
+			<div class="nspLinks" style="margin:0;">
+								<div class="nspLinkScroll1">
+					<div class="nspLinkScroll2 nspPages3">
+																				<ul class="nspList active nspCol3">
+														
+							<li class="even"><h4><a href="../../latest-updates/44-nomination-to-bog" title="Nomination to BOG" target="_self">Nomination to BOG</a></h4><p>[ July, 2014]
+Prof Sanjeev Sanghi  has been nominated as Senate Nominee to Board of Governers of th&hellip;</p></li>							
+																											
+							<li class="odd"><h4><a href="../../latest-updates/43-prof-santosh-kapuria-selected-insa-fellow" title="Prof Santosh Kapuria selected INSA Fellow" target="_self">Prof Santosh Kapuria selected INSA Fellow</a></h4><p>[ October, 2014]
+Prof Santosh Kapuria, Professor of Applied Mechanics Department has been selected &hellip;</p></li>							
+														</ul>
+															
+					</div>
+					
+									</div>	
+					
+				
+					
+			</div>
+		</div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<h3>Login</h3>
+					<form action="../students" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Username"></span>
+							<label for="modlgn-username" class="element-invisible">Username</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Username" />
+					</div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Password">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Password							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Password" />
+					</div>
+							</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Remember Me</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Log in</button>
+			</div>
+		</div>
+					<ul class="unstyled">
+							<li>
+					<a href="../../component/users/index.html?view=registration">
+					Create an account <span class="icon-arrow-right"></span></a>
+				</li>
+							<li>
+					<a href="../../component/users/index.html?view=remind">
+					Forgot your username?</a>
+				</li>
+				<li>
+					<a href="../../component/users/index.html?view=reset">
+					Forgot your password?</a>
+				</li>
+			</ul>
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aW5kZXgucGhwP2xldHRlcj1XJm9wdGlvbj1jb21famJ1c2luZXNzZGlyZWN0b3J5JnZpZXc9Y2F0YWxvZyZJdGVtaWQ9MjQx" />
+		<input type="hidden" name="4c30e4884b913260a8ca1e5cb6604754" value="1" />	</div>
+	</form>
+		</div>
+	
+						</div>
+								    </div>
+
+				
+			</div> <!--globalContent-->
+
+		    		</div> <!-- wrapper --->
+		</div> <!-- feature --->
+		<div id="footer">
+		    <div class="container">
+				
+				
+				<div class="content_footer row">
+					<div class="copyrights col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<p>Copyright © Applied Mechanics - IIT Delhi. All Rights Reserved.</p>					</div>
+					<div class="soc_icons_box col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						<ul class="soc_icons" >
+													</ul>
+					</div>
+				</div> <!--content_footer-->
+
+						    </div> 
+		</div> <!--id footer-->
+	</body>
+<script type="text/javascript"></script>
+</html>
